@@ -4,7 +4,7 @@ FROM ubuntu:22.04
 WORKDIR /app
 
 # Install app dependencies
-COPY requirment.txt ./
+COPY requirements.txt ./
 
 RUN apt update && apt -y upgrade && apt install python3.10 -y && apt install python3-pip -y  && apt install python3-venv -y
 
