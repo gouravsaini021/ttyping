@@ -1,5 +1,6 @@
 import curses
 import time
+import logging
 import threading
 import json
 from playsound import playsound
@@ -9,18 +10,36 @@ data = json.load(f)
 Audio=data["audio"]
 
 
-def show_result_screen(stdscr,total_time,total_typed_char,correct_typed_char):
+def show_result_screen(stdscr,total_time,total_typed_char,correct_typed_char,goal_wpm,selected_option):
 	""" This function show final result on screen. """
+	logging.debug(selected_option)
 	stdscr.clear()
 	h,w=stdscr.getmaxyx()
 	total_time=round(total_time/60,2)
 	gwpm=(total_typed_char/5)//total_time
 	accuracy=int((correct_typed_char/total_typed_char)*100)
 	curses.init_pair(4,curses.COLOR_WHITE,curses.COLOR_BLUE)
-	stdscr.addstr(h//2,w//2,f'WPM : {(gwpm*accuracy)//100}')
-	stdscr.addstr(h//2+1,w//2,f'Accuracy : {accuracy}%')
-	stdscr.addstr(h//2+2,w//2,f'Minute : {total_time}')
-	stdscr.refresh()
+	stdscr.addstr(h//2,w//2,f'Goal WPM: {goal_wpm}')
+	stdscr.addstr(h//2+1,w//2,f'WPM : {(gwpm*accuracy)//100}')
+	stdscr.addstr(h//2+2,w//2,f'Accuracy : {accuracy}%')
+	stdscr.addstr(h//2+3,w//2,f'Minute : {total_time}')
+
+	if selected_option=='Home':
+		stdscr.addstr(h//2+4,w//2,'Home',curses.color_pair(4))
+	else:
+		stdscr.addstr(h//2+4,w//2,'Home')
+
+	if selected_option=='Next':
+		stdscr.addstr(h//2+4,w//2+5,'Next',curses.color_pair(4))
+	else:
+		stdscr.addstr(h//2+4,w//2+5,'Next')
+	
+	if selected_option=='Repeat':
+		stdscr.addstr(h//2+4,w//2+10,'Repeat',curses.color_pair(4))	
+	else:
+		stdscr.addstr(h//2+4,w//2+10,'Repeat')
+	stdscr.refresh()	
+
 	return
 
 
@@ -65,11 +84,14 @@ def show_next_line(stdscr,ch1,color_seq,index):
 	stdscr.refresh()
 
 
-def get_xxxxx(stdscr):
+def get_xxxxx(stdscr:curses.window,lesson_no:int):
+	f = open('lesson.json')
+	lessons=json.load(f)
 	stdscr.clear()
 	# ch1="think how do you think in this situation that really matters in life to create happy healthy and prosprous life."
-	ch1="The world is becoming increasingly digitized, and as a result, digital literacy has become a crucial skill to have. Whether it's understanding how to use new software or navigating social media, being digitally literate can help you in both your personal and professional life. So, take the time to learn and stay up-to-date with the latest digital trends to stay ahead of the curve."
-
+	# ch1="The world is becoming increasingly digitized, and as a result, digital literacy has become a crucial skill to have. Whether it's understanding how to use new software or navigating social media, being digitally literate can help you in both your personal and professional life. So, take the time to learn and stay up-to-date with the latest digital trends to stay ahead of the curve."
+	ch1=lessons[lesson_no]['lesson']
+	goal_wpm=lessons[lesson_no]['goal_wpm']
 	color_seq=[]
 	h,w=stdscr.getmaxyx()
 	#show only 3 lines of whole paragraph adjusted to screen
@@ -88,6 +110,7 @@ def get_xxxxx(stdscr):
 	while i<len(ch1):
 		key=stdscr.getch()
 		h,w=stdscr.getmaxyx()
+		logging.debug(str(key))
 		# stdscr.addstr(10,10,str(key))
 		# stdscr.addstr(12,10,str(cur_w)+", "+str(w))
 		# stdscr.addstr(15,10,str(cur_h))
@@ -110,7 +133,8 @@ def get_xxxxx(stdscr):
 				# raise Exception("Sorry, no numbers below zero")
 				show_next_line(stdscr,ch1,color_seq,i)
 				cur_h=1
-
+		logging.debug("char key: "+str(ord(ch1[i])))
+		logging.debug("keyboard key:"+str(key))
 		if chr(key)==ch1[i]:
 			# This condition is for when user press right key 
 			correct_typed_char+=1
@@ -151,11 +175,29 @@ def get_xxxxx(stdscr):
 		cur_w+=1
 	end_time=time.time()
 	total_time=end_time-start_time
-	show_result_screen(stdscr,total_time,total_typed_char,correct_typed_char)
+	i=1
+	options=['Home','Next','Repeat']
 	while True:
+		show_result_screen(stdscr,total_time,total_typed_char,correct_typed_char,goal_wpm,options[i])
 		key=stdscr.getch()
+		if key==curses.KEY_LEFT:
+			i-=1
+			if i<0 :
+				i=len(options)-1
+		if key==curses.KEY_RIGHT:
+			i+=1
+			if i>=len(options):
+				i=0
 		if key==curses.KEY_ENTER or key in [10,13]:
+			if options[i]=='Home':
+				break
+			if options[i]=='Repeat':
+				get_xxxxx(stdscr,lesson_no)
+			if options[i]=='Next':
+				get_xxxxx(stdscr,lesson_no+1)
+			# this break help from returning all recursive function that all called in 'Repeat' and 'Next'
 			break
+
 
 
 		

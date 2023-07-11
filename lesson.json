@@ -1,11 +1,3457 @@
 [
-    "it usually takes a few week of practice to build muscle memeory neede to type fast",
-    "good posture helps improve our concentration, letting your work longer and harder.it also prevent sore muscles",
-    "look straight ahead.make sure eyes look directly into your monitor the same way would look at someone across the table from you.",
-    "as you type, your brain remember each word as a pattern of keystroke. this allows you to type the same words without thinking about how to type each character.",
-    "to see how it works lets type the next sentence five times. i am glad. i am glad. i am glad. i am glad. i am glad.",
-    "if you learn to never look at you keyboard when typing, the computer look like part of you body with you mind in full control.",
-    " By practicing regularly and focusing on accuracy, you can improve your efficiency and productivity. Developing muscle memory and maintaining a relaxed posture while typing are also crucial. Remember, slow and steady progress yields long-term success. Keep typing!",
-    "india, a country of diversity and contrasts, boasts a rich tapestry of culture, history, and traditions. From the serene backwaters of Kerala to the bustling markets of Delhi, it captivates visitors with its vibrant colors, mouthwatering cuisine, and warm hospitality. A land of endless exploration awaits.",
-    "The power of human connection cannot be underestimated. In a world driven by technology, genuine interactions have become increasingly precious. From a warm smile to a heartfelt conversation, these small moments of connection can brighten someone's day and remind us of our shared humanity."
-]
+    {
+      "goal_wpm": 1,
+      "lesson": "ffffjjjjffffjjjjffjjffjjfjfjjfjf",
+      "title": "Keys f & j"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "f f j j ff ff jj jj fj jf ff jj",
+      "title": "Space Bar"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ffff jjjj ff jj fff jjj fj fj jjf ffj fff jjj ffj jjf fjfj fffj jjjf ffjj ff jj ffff",
+      "title": "Review: f & j"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "ddddkkkkddddkkkkddkkddkkdkdkkdkd",
+      "title": "Keys d & k"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "dd kk dk dk kd kd ddd kkd ddk dkk kkdd ddkk dddd kkkk ddkk kkdd kdd kddd dk kk",
+      "title": "Review: d & k"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ffff ddd jjjj kkkk df df jk jk jjj fff ddff jjkk kkdd fdfd jkjk dfjk dfjk kkdd jkjk dfdf dfjj jjfd kkjj dfjk ddkd kkdk",
+      "title": "Practice: d & k"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ffjjfjkdjkdfkjdkfjkdjfkjdfkdjfkdfdkjfkdf",
+      "title": "Play: fjkd"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "ssssllllssssllllssllssllslsllsls",
+      "title": "Keys s & l"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ll ss ssll slsl lsssl slls lsll ssl llss ssll slsl llsslsll ssl ssll slsl lsll ll",
+      "title": "Review: s & l"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "jj ff kk dd ll ssssd df fj jk kl sdfsk dl ks jf kd lslfl kl js kd jf sdfllk kkj jjf",
+      "title": "Practice: s & l"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "aaaa;;;;aaaa;;;;aa;;aa;;a;a;;a;a",
+      "title": "Keys a & ;"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "aa ;; ;;aa ;a;a a;;;a ;aa; a;aa ;;aaa;; ;;aa ;a;a aa;;a;aa ;;a ;;aa ;a;a",
+      "title": "Review: a & ;"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ask dad all salads fall; lass as all ads add salsa jaff kad; flask lass sad fall alfa jak kaj dad ask",
+      "title": "First 8 Keys"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "all;fallflask;salad;salad;sfallfallaladjlaskflaskasasaladask",
+      "title": "Play: First 8 Keys"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "dad dada ad ada adad sad sada dasad fas fasd dada affa fada fasa saf fdds asdf",
+      "title": "Home Row: L Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "jk jk jjkk jlkj ;;;; lkjj jj;; lkjj lkjj lk;; jkl; jjkk lkj jjkk lkjj ;;;; llll kkkk jjjj jl jk kj klj lkj kljj kljj",
+      "title": "Home Row: R Hand"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "gggghhhhgggghhhhgghhgghhghghhgh",
+      "title": "Keys g & h"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "gf ggf gf ggf hj hhj hj hhj gfgf hjhj gggf hhhj fghj fgf jhj fgfgf jhjhj ggf hhj gghh ghgh ghfj ggf hhj",
+      "title": "Review: g & h"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "glad glass gag had haha gal hal gaf hah haha gaga glad hala hal hasha shash gl",
+      "title": "Practice: g & h"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "glad dad had half a glass as salad; dad shall ask glass flags had glass ask shall flask had slash jaff",
+      "title": "Home Row Review"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "dadhalfasaladagladflaghadslashladsaladhalfasaladadsfadfs",
+      "title": "Play Home Row"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "kgh; lkas kfjalgs lkjfla; fhaljs laskjf; ghals fkglsj laksj haksg ljfa;",
+      "title": "Placement Test Home Row"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "rrruuruuuuruurrruruurrrruruuuruu",
+      "title": "Keys r & u"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "rf rrf rf rrf uj uuj uj uuj rfrf ujuj rrrf uuuj fruj frf juj frfrf jujuj rrf uuj rruu ruru rufj rrf uuj",
+      "title": "Review: r & u"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "usual salad has hug laugh rush us lurk radar rural shark skull sugar us ask dull dad flag harsh",
+      "title": "Practice: r & u"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "eiiieeeeiieieeiieieiiieeiieieiee",
+      "title": "Keys e & i"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ed eed ed eed ik iik ik iik eded ikik eeed iiik deik dede kik deded kikik eed iik eeii eiei eidk eed iik",
+      "title": "Review: e & i"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "address add reader skill did suffer all field ear free kiss ride aide died dealers lied alike darker area afraid all air duller user free idea",
+      "title": "Practice: e & i"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "red fair hear her her life here has raise a hers here is read his rugs raised her rule as reared far as he red field her dreaded here all hard herself hair;",
+      "title": "Review: Home + ruei"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a red address dragged a dare dare as feared degree reads rage are seeds a address are see fared garage dare read dear see",
+      "title": "Top Row: Left Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "hill ill lill; hill lik jil jh jll kll jjjk jjjl lll; ;;;k lkj ;lkj jill hill kih khil khil likh",
+      "title": "Top Row: Right Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "afraid guess laugh heard shall dress glass field grass herself large useful ahead fresh leader raise sugar figure grade disease agree address sleigh radius federal guard",
+      "title": "Play: ruei"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "wwoowwoowwooowwoowwwoowwowoowwwo",
+      "title": "Keys w & o"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ws wws ws wws ol ool ol ool wsws olol wwws oool swol sws lol swsws lolol wws ool wwoo wowo wosl wws ool",
+      "title": "Review: w & o"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "swear owe lower also allow row weak flower follow wear sure well road saw rear risker order soldiers worried awkward firewood afford",
+      "title": "Practice: w & o"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "soshewaswereafewflowerssawhisshadowwereweawareofwhere",
+      "title": "Play: Top 6 Keys"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "qyyqyyyqyqqqyyyqyqyyqyyyqqqyyqyq",
+      "title": "Keys q & y"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "qa qqa qa qqa yj yyj yj yyj qaqa yjyj qqqa yyyj aqyj aqa jyj aqaqa jyjyj qqa yyj qqyy qyqy qyaj qqa yyj",
+      "title": "Review: q & y"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "sheaf qualify already yellow we early why require year sir how liquid yard joy yield risk lady offer rough ready",
+      "title": "Practice: q & y"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "pptptptttttptptpptptppptpttptppt",
+      "title": "Keys p & t"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "tf ttf tf ttf p; pp; p; pp; tftf p;p; tttf ppp; ftp; ftf ;p; ftftf ;p;p; ttf pp; ttpp tptp tpf; ttf pp;",
+      "title": "Review: p & t"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "two fall first soft white adapt thirty ought other post wealthy our totally tree teeth faith trailer rapidly slight fourth fast",
+      "title": "Practice: p & t"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "hueadgsfpo;rtwjlqkiyohpskwfytldgqjui;raeokrpwltsgqiyja;uedhf",
+      "title": "Play: Top Row"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "with all their faults well if the wages are the depth of his safest take out of this world with us of his property till he pay you for slipped",
+      "title": "Review: Home + Top"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "we are at a great ease a star as fast as a referred sea rewarded a wage tea art wetted gate a great add are at tea star were art free",
+      "title": "Top Row: Left Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "you look up you pull up poppy; loop oil you joy hop hill; oh pool up you jolly hill ill pill lol you; joy",
+      "title": "Top Row: Right Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "yrgilokwfthygeswaopiqwertyuiopjufrkefikikw",
+      "title": "Play: Top Row"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "the air is like this is lot like the early edge were hard; quite allowed supper little thought little offered world like you help lift the world",
+      "title": "Play: Top Row"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "type these tough letter sets; tyqy owier qruto woiur tuqp weoit pqoe",
+      "title": "Placement Test Top Row"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "vmvmmvmmmvvvvmvmvmvmmmvmvmmvvvmm",
+      "title": "Keys v & m"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "vf vvf vf vvf mj mmj mj mmj vfvf mjmj vvvf mmmj fvmj fvf jmj fvfvf jmjmj vvf mmj vvmm vmvm vmfj vvf mmj",
+      "title": "Review: v & m"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "i drive everyday as good as dave who developed leadership qualities to moved overhead of other drivers",
+      "title": "Practice: v & m"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "mju mju muj muj mjum jumu jmum mjmmu jummj mujm muj mju",
+      "title": "Travel R Index"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "vfr vfr vrf vrf vfrv frvr fvrv vfvvr frvvf vrfv vrf vfr",
+      "title": "Travel L Index"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "c,c,cc,,c,cccc,c,,,c,c,ccc,c,c,c",
+      "title": "Keys c & ,"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "cd ccd cd ccd ,k ,,k ,k ,,k cdcd ,k,k cccd ,,,k dc,k dcd k,k dcdcd k,k,k ccd ,,k cc,, c,c, c,dk ccd ,,k",
+      "title": "Review: c & ,"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "i accept the idea of class, she lost her credit card, this car could reach top speed, the chair must touch the wall, ice hockey created",
+      "title": "Practice: c & ,"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": ",ki ,ki ,ik ,ik ,ki, ki,i k,i, ,k,,i ki,,k ,ik, ,ik ,ki",
+      "title": "Travel R Middle"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "cde cde ced ced cdec dece dcec cdcce deccd cedc ced cde",
+      "title": "Travel L Middle"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "accept,oracle,class,credit,card,car,could,clever,came,could",
+      "title": "Play: vmc,"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "x.x.xx..x.xxxx.x...x.x.xxx.x.x.x",
+      "title": "Keys x & ."
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "xs xxs xs xxs .l ..l .l ..l xsxs .l.l xxxs ...l sx.l sxs l.l sxsxs l.l.l xxs ..l xx.. x.x. x.sl xxs ..l",
+      "title": "Review: x & ."
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "exercise makes me feel relaxed. after i took the exit exam sixty times, i watched mad max. i fixed my xm radio. i did extra examples.",
+      "title": "Practice: x & ."
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": ".lo .lo .ol .ol .lo. lo.o l.o. .l..o lo..l .ol. .ol .lo",
+      "title": "Travel R Ring"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "xsw xsw xws xws xswx swxw sxwx xsxxw swxxs xwsx xws xsw",
+      "title": "Travel L Ring"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "z/z/zz//z/zzzz/z///z/z/zzz/z/z/z",
+      "title": "Keys z & /"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "za zza za zza /; //; /; //; zaza /;/; zzza ///; az/; aza ;/; azaza ;/;/; zza //; zz// z/z/ z/a; zza //;",
+      "title": "Review: z & /"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "i was amazed / the wall / puzzled how lazy / crazy zak was. he had a jazz quiz close to a freezer. she makes him dizzy. he realized the size was smaller.",
+      "title": "Practice: z & /"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "/;p /;p /p; /p; /;p/ ;p/p ;/p/ /;//p ;p//; /p;/ /p; /;p",
+      "title": "Travel R Pinky"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "zaq zaq zqa zqa zaqz aqzq azqz zazzq aqzza zqaz zqa zaq",
+      "title": "Travel L Pinky"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "zxcvm.zxvmmzxcv,zxcm,zmxcv,zmxz,cv,zxcvxmcv,",
+      "title": "Play: Bottom Row"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "bnbnbbnnbbbnnnbnnnbnnbnbnbnbnbnn",
+      "title": "Keys b & n"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "bf bbf bf bbf nj nnj nj nnj bfbf njnj bbbf nnnj fbnj fbf jnj fbfbf jnjnj bbf nnj bbnn bnbn bnfj bbf nnj",
+      "title": "Review: b & n"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a baby is the very young offspring of humans. a newborn is an infant who is within hours and up to a few weeks from birth.",
+      "title": "Practice: b & n"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a reserved eager tree was at secret vast ever read exceeded defeated a few wave sweetest vast raced bazaar ever at a safe seat",
+      "title": "Bottom Row: L Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "ok you in only in jump on you in milk pull ok pop hook lump pink my you up on look no him hill noon moon upon july join oil million",
+      "title": "Bottom Row: R Hand"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "great work so far. we will now move on to learn about the tab and enter key, and then work on your speed.",
+      "title": "Practice Bottom Row"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "mcn/vbx,z.x,cm/vnbz.c,vnbzx,/cmvnbbz.zxccmx,vnbz,x./",
+      "title": "Play: Bottom Row"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "someone balloon picture morning chicken another brought bicycle brother because believe country evening herself himself kitchen nothing outside present village weather strange station",
+      "title": "Play: Bottom Row"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "mju ,ki .lo /;p ujm ik, ol. p;/ mju ,ki .lo /;p ujm ik, ol. p;/",
+      "title": "Travel R All"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "vfr cde xsw zaq rfv edc wsx qaz vfr cde xsw zaq rfv edc wsx qaz",
+      "title": "Travel L All"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "\tone tab     four spaces \t\ttwo tabs \t\t\tthree tabs \tone tab usually takes as much \tspace as four spaces. \tmany computer programmers \tin fact convert your tab into spaces.",
+      "title": "Practice: Tab"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "you can type all characters in your keyboard; vocmz czng vbs, zvnsd bsnz. dzbox xon artaxerxes batman gandalf sauron baggins bahram",
+      "title": "Placement Test Bottom Row"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "now that you know how to type with all ten fingers, lets work on your speed and then move on to other keys.",
+      "title": "Using Ten Fingers"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "if you want your typing speed to increase, you must first focus on your accuracy.",
+      "title": "Increase Speed"
+    },
+    {
+      "goal_wpm": 11,
+      "lesson": "practice makes perfect. every time you repeat this lesson, your speed will increase.",
+      "title": "Practice"
+    },
+    {
+      "goal_wpm": 11,
+      "lesson": "remember the first and only rule of typing, never ever look at the keyboard while typing.",
+      "title": "Don't Look Down"
+    },
+    {
+      "goal_wpm": 11,
+      "lesson": "look, only you join him. only you look him up.",
+      "title": "Practice R Hand"
+    },
+    {
+      "goal_wpm": 11,
+      "lesson": "type increase fingers look make perfect practice look make focus accuracy",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 12,
+      "lesson": "when we stare at a screen we tend to blink less. that is bad for the eyes because they can get dry.",
+      "title": "Staring at Screen"
+    },
+    {
+      "goal_wpm": 12,
+      "lesson": "make sure to look away from the computer every fifteen minutes, and take a five minute break every hour.",
+      "title": "Take Breaks"
+    },
+    {
+      "goal_wpm": 13,
+      "lesson": "once you have finished typing this lesson, look away from the computer for a few short seconds before looking at the results.",
+      "title": "Look Away"
+    },
+    {
+      "goal_wpm": 13,
+      "lesson": "because sitting at a computer is the exact opposite of exercise, you should take a more active break every hour or so.",
+      "title": "Active Breaks"
+    },
+    {
+      "goal_wpm": 13,
+      "lesson": "as tree grew grass waved grass were watered trees were fed",
+      "title": "Practice L Hand"
+    },
+    {
+      "goal_wpm": 13,
+      "lesson": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen",
+      "title": "Play: Numbers"
+    },
+    {
+      "goal_wpm": 14,
+      "lesson": "it usually takes a few weeks of practice to build the muscle memory needed to type fast.",
+      "title": "Muscle Memory "
+    },
+    {
+      "goal_wpm": 14,
+      "lesson": "good posture helps improve our concentration, letting you work longer and harder. it also prevents sore muscles.",
+      "title": "Good Posture"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "look straight ahead. make sure your eyes look directly into your monitor the same way you would look at someone across the table from you.",
+      "title": "Adjust Your Screen"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "once you are more comfortable with the keyboard, you may turn off the virtual hand guides by using the settings at the top of the page.",
+      "title": "Trust Yourself"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "my opinion on him. pumpkin oil, milk, ink, mill.",
+      "title": "Practice R Hand"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "look ahead straight ahead make sure keyboard memory weeks concentration improve posture good usually practice",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 16,
+      "lesson": "as you type, your brain remembers each word as a pattern of keystrokes. this allows you to type the same words without thinking about how to type each character.",
+      "title": "Brain Power"
+    },
+    {
+      "goal_wpm": 16,
+      "lesson": "to see how it works lets type the next sentence five times. i am glad. i am glad. i am glad. i am glad. i am glad.",
+      "title": "Repeat Lessons"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "to make sure you do not go back to typing with two or four fingers, make sure to revisit these lessons a few times during the coming week.",
+      "title": "Never Stop"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "if you learn to never look at your keyboard when typing, the computer will feel like a part of your body with your mind in full control.",
+      "title": "No Peeking"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "streets are safe better see a fast car race served a tea we rest",
+      "title": "Practice L Hand"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "next five your brain keyboard how remember words patterns typing keyboard sentence practice ahead memory",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 18,
+      "lesson": "placing your fingers on the home row will help you learn to type faster and build the correct muscle memory. now try doing it with your eyes closed or while you look at the screen.",
+      "title": "Home Row"
+    },
+    {
+      "goal_wpm": 18,
+      "lesson": "from the home row all other keys are just a short distance away. as you practice, you will build speed because you hardly have to move your fingers from one key to the next.",
+      "title": "Moving Forward"
+    },
+    {
+      "goal_wpm": 19,
+      "lesson": "while it may feel easier at first, hunting and pecking at letters makes it harder to concentrate when you type. you also type slower and build the wrong muscle memory.",
+      "title": "Type Correctly"
+    },
+    {
+      "goal_wpm": 19,
+      "lesson": "just like a basketball player trains their muscles so they focus on the game, you can train your muscles to type without much thinking about it.",
+      "title": "Train Your Muscles"
+    },
+    {
+      "goal_wpm": 19,
+      "lesson": "jolly puppy look up on you. lumpy pumpkin only you.",
+      "title": "Practice R Hand"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "basketball trains hunting pecking distance fingers comfortable player trains typing great focus",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "whenever you are unsure which finger you should use to type a certain letter, take a look down at the virtual hands. they will guide you.",
+      "title": "Virtual Guide"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "your index fingers should always find their way back to f and j by feeling for those bumps. it takes some practice but it will help you get better.",
+      "title": "Bumps on J & F"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "fast typists forget about the keyboard and do not even realize their fingers are at work. once you practice more you will feel the same way too.",
+      "title": "Become a Pro"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "next, we will move on to practice tricky words and then focus on learning how to type capital characters. great work so far.",
+      "title": "The Shift Key"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "a sad state after a few dates we agree a few cards were fade",
+      "title": "Practice L Hand"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "whenever unsure finger should type realize shift key typists distance comfortable about keyboard help final certain virtual shift practice",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "congratulations for getting this far. it seems that you are able to type the basic lowercase characters. now lets examine your endurance. believe it or not, floccinaucinihilipilification is a valid english word and it means the estimation of something as worthless",
+      "title": "Placement Test Basic 1"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "she wore dazzling jewelry with sparkling gems. jewelry jewelry jewelry jewelry jewelry she put a single raspberry on top of each cupcake. raspberry raspberry raspberry raspberry raspberry the piece of jewelry looked like a tiny raspberry. jewelry raspberry jewelry raspberry",
+      "title": "Jewelry..."
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "you can achieve anything if you focus and work hard. achieve achieve achieve achieve achieve no matter what they say, always believe in yourself. believe believe believe believe believe you can achieve your dreams if you believe in yourself. achieve believe achieve believe",
+      "title": "Achieve/Believe"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "if you feel overwhelmed stop and take a deep breath. breath breath breath breath breath when you are exercising remember to breathe. breathe breathe breathe breathe breathe she took a deep breath and reminded herself it is important to breathe. breath breathe breath breathe",
+      "title": "Breath/Breathe"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "most rainbows disappear very quickly. disappear disappear disappear disappear disappear it will disappoint me if you do not share the candy. disappoint disappoint disappoint disappoint disappoint the magician was disappointed that the rabbit did not disappear. disappear disappoint disappear disappoint",
+      "title": "Disappear..."
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "she cannot accept any presents. accept accept accept accept accept he passed all of his tests except for math. except except except except except i can accept your rules except for the one about running. accept except accept except",
+      "title": "Accept/Except"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "you must move forward and leave the past behind you. forward forward forward forward forward a foreword is a piece of writing sometimes placed at the beginning of a book. foreword foreword foreword foreword foreword we cannot move forward until the author finishes writing the foreword. forward foreword forward foreword",
+      "title": "Forward/Foreword"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "people generally prefer to exercise in the morning. prefer prefer prefer prefer prefer he will defer to his parents because they know best. defer defer defer defer defer i would prefer if you would defer to your mother. prefer defer prefer defer",
+      "title": "Prefer/Defer"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "please give this cookie to your friend. to to to to to that is my favorite video game too. too too too too too i read two books over the weekend. two two two two two give two cookies to your brother, too. to too two to too two",
+      "title": "To/Too/Two"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "sarah asked the advice of her friends before deciding. advice advice advice advice advice older students advise younger students on the rules. advise advise advise advise advise i would advise that you should not give advice unless it is asked for. advice advise advice advise",
+      "title": "Advice/Advise"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "this book was written by a famous author. by by by by by sometimes it is hard to say bye to a good friend. bye bye bye bye bye my grandma said she will buy me a puppy. buy buy buy buy buy by the time i buy the groceries, you should say bye to your friends. by bye buy by bye buy",
+      "title": "By/Bye/Buy"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "fFfFfFjJjJjJFfJjFfJjFfJjFFJJfJjF",
+      "title": "Capital F & J"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "faa Faa faa Faa Foo Faa Jee Jaa Jee Joo Jaa Jee faa Faa faa Faa Foo Fee Joo Jii Joo Jee Joo Jee",
+      "title": "Review: F & J"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "From Just Fun Jump Father Job Fly July For Join Fast January Four Joke Fell Joy Farm Junior Found Join Fish July Funny Jam Fire June Find Jim Five Jobs",
+      "title": "Practice: F & J"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "dDdDdDkKkKkKDdKkDdKkDdKkDDKKdKkD",
+      "title": "Capital D & K"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Dee Doo Dee Doo Dee Doo Kee Koo Kee Koo Kee Koo Dea Dea Dea Dea Daa Doa Koo Kea Koo Kea Koo Kea",
+      "title": "Review: D & K"
+    },
+    {
+      "goal_wpm": 17,
+      "lesson": "Keen Dad Kind Did Jump King Door Know June Join Dog Knife Dress Fast Kick Develop Kurd Far Demand Found Keep For During Kept Did From July Key Dad Known Duck",
+      "title": "Practice: D & K"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "FooJeeDooKeeKFooDFooKJooJooFeeDFJKJooJeeDooDeeKooKeeFeeFoo",
+      "title": "Play: FJDK"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "sSsSsSlLlLlLSsLlSsLlSsLlSSLLsLlS",
+      "title": "Capital S & L"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "See Soo See Soo See Soo Lee Loo Lee Loo Lee Loo Sea Sea Sea Sea Saa Soa Loo Lea Loo Lea Loo Lea",
+      "title": "Review: S & L"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Late Sleep Say Dad Stay Street Some Last Jump Lot Listen Left Dog Live Stop Look Like Side Sky Sand Long Something Know Story Sat Shall Little Sent Leave Funny",
+      "title": "Practice: S & L"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "aAaAaA;:;:;:Aa:;Aa:;Aa:;AA::a:;A",
+      "title": "Capital A & :"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "A;; A:: A:a A;a a:: a;; a:A a;A A;a A:a A;: A:; a;A a:A a;: a:; ;:: ;;: ;:; ::; aaA AAa AaA aaA A:; A;: a:; A:; :a; ;a: ;A: :A:",
+      "title": "Review A & :"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "All: Are: An: Known At: Away: Stay About: June Ask: After: Lot Apple: Around: Far Afraid: Airplane Sky: Add: Again; Across: Along: Any: Air: Almost: Also: Always:",
+      "title": "Practice: A & :"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Aa;jJ;lLkK:hLgoodDoosSoobhSghSgAaa;ghsSDd",
+      "title": "Play: SLA:"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "gGgGgGhHhHhHGgHhGgHhGgHhGGHHgHhG",
+      "title": "Capital G & H"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Gaa Gaa Gaa Gaa Gee Gee Hoo Hoo Haa Hii Hoo Hee Gee Hee Gee Hee Goo Hoo Gah Haa Haa Gah Hoo Goo",
+      "title": "Review: G & H"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Hat Horse Great Him At Home Got Hair About Give He House Lot Gave Get How Game Go Demand Green Happy Good Heard Kept Hurry Help Here Have Head Almost Hello Gold",
+      "title": "Practice: G & H"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "tTtTtTyYyYyYTtYyTtYyTtYyTTYYtYyT",
+      "title": "Capital T & Y"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Tee Too Tee Too Tee Too Yoo Yee Yoo Yee Yoo Yee Tee Yoo Tee Yee Too Yee You Tou Yea Tea You Tea",
+      "title": "Review: T & Y"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Take Great Young Them Yourself Thank Hat Yesterday Train You They Apple Yours Took Yacht Add Thing Tell Yoyo Yard Kept Tree There Too Did Yes Three Yard For Then You",
+      "title": "Practice: T & Y"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "TeaYouHeaGeeHelloYouHeaGraHyeHeaYouHoGea",
+      "title": "Play: GHTY"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "rRrRrRuUuUuURrUuRrUuRrUuRRUUrUuR",
+      "title": "Capital R & U"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Rea Rou Rea Rou Rea Rou Umb Umb Und Und Umb Und Rea Umb Rou Und Und Rou Rel Unc Use Rea Rai Usu",
+      "title": "Review: R & U"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Room Unique Road Try Up Ride Roll Huge Round Us Lot University Race Yours Useful Rope Universe Job Remember Read Got Understand Right Stay Rain Real Reach Leave Usually",
+      "title": "Practice: R & U"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "eEeEeEiIiIiIEeIiEeIiEeIiEEIIeIiE",
+      "title": "Capital E & I"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Ele Ele End End Ele Ele Int Int Ice Ice Inv Ind Inv Ide Exi Eco Ira Ess Enf Eva Imp Ele Ins Ina",
+      "title": "Review: E & I"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Is Explain If End Them Even Each Under Ice East Idea Reiver Early Ever Include Took Its Every I Green Into Egg Except Happy Iron Inside Apple Inch Itself Gold Easy Eat",
+      "title": "Practice: E & I"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "IcHeFeGeEieLiUndofEaRoUeIeUeIaTerYer",
+      "title": "Play: RUEI"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "wWwWwWoOoOoOWwOoWwOoWwOoWWOOwOoW",
+      "title": "Capital W & O"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Wow Wow Whe Whe Wow Whe Owe Ora Owe Ora Oka Obe Whe Wow Ora Owe Whe Wow Ora Whe One Wha Wow Oka",
+      "title": "Review: W & O"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Open Well Our Is What Or Over End Other Orange Huge One Went Who Your Will Wall Why Is Was Once Would Got We Outside Out Gold When Old Way Oh Try Only Want With Hat On Eat",
+      "title": "Practice: W & O"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "qQqQqQpPpPpPQqPpQqPpQqPpQQPPqPpQ",
+      "title": "Capital Q & P"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Pla Pla Par Par Pou Pou Que Que Qui Qui Que Qui Pic Pla Pic Peo Peo Pic Que Qui Que Qui Que Qui",
+      "title": "Review: Q & P"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Quickly Well Quiet Pink Other Purple Part Qualify Early Paper Place Will Quality Quantity Why Pass Queen Once Quail Play Tree Pet Pretty Pull Head Quick Pig Leave Pick",
+      "title": "Practice: Q & P"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "PartyPurpleQualityPartQualifyPutPinkPaperQuickPlayPaint",
+      "title": "Play: WOQP"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "vVvVvVmMmMmMVvMmVvMmVvMmVVMMvMmV",
+      "title": "Capital V & M"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Vie Vie Voi Voi Val Val Mor Mak Mad Met Man May Var Var Veg Vis Vac Vol Mus Mon Muc Mig Min Moo",
+      "title": "Review: V & M"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Man Verb Well Visit Vacation Pink Middle Most Qualify Valley Many Early Met Voyage Wall Various Money Why Very Mad Milk Egg Men Value Old Miss Me Veto It View My Pick",
+      "title": "Practice: V & M"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "UMJ RVFR UMJU VRFR MUMJUJ VFRFVRVF UJM",
+      "title": "Travel Index"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "cCcCcC??????Cc??Cc??Cc??CC??c??C",
+      "title": "Capital C & ?"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Can? Cat? Can? Cow? Cap? Cut? Con? Coa? Com? Cau? Com? Can? Cha? Con? Can? Cap? Cat? Can?",
+      "title": "Review: C & ?"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Clothes Country Please Cat? Caught Play Cap? Clock? At Clean Can? Horse Cake? Cloud You Climb Came? Last Cover? Coat? Try Chair? Corner Call? Miss Cut Corn? View Car? Could?",
+      "title": "Practice: C & ?"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "cC??cCCat?MyVoiceCat?ValueMetManCanMin?MVC?",
+      "title": "Play: VMC?"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "zZzZzZnNnNnNZzNnZzNnZzNnZZNNzNnZ",
+      "title": "Capital Z & N"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Zoo Zan Zee Zab Zag Zor Now Now Nor Nee Nos Noi Zal Zep Zip Zoo Zek Zin Nev Nic Not Nov Num Nes",
+      "title": "Review: Z & N"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "Need Zinger Please Neck Night Can Next Noise At Zen Zoo Nothing Cake Nose Zoo North You Name Zero Last Near Zoro New Coat Never Zambian Zipped Me Zip Nail At Zip Now Funny",
+      "title": "Practice: Z & N"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "xXxXxXbBbBbBXxBbXxBbXxBbXXBBxBbX",
+      "title": "Capital X & B"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "Xam Xor Xem Xor Xus Xor Boy Bit Bat Boy Bar Big Xei Xam Xor Xem Xen Xel Bui Bal Bir Blu Bab Bri",
+      "title": "Review: X & B"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "eXpect Please neXt eXam Night eXplain Brown boX At siX Baby fiX Cake Book Big But You eXpress Bring eXact Near Black Bit Be Our Ball eXample eXcept Is Bed By Xi You Boy Best",
+      "title": "Practice: X & B"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "IKI EDCDEC KIKI EDCE KI EDCED KI EDCE IK",
+      "title": "Travel Middle"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "WSXW OL WXWWS OLOLL WXWSW OLOLO WXS LO W",
+      "title": "Travel Ring"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "QZQAQ PP QAZQ P QAZQ P QAZQ P AQZQ P QZA P A",
+      "title": "Travel Pinky"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "So, You Think You Can Type All UpperCASE Characters? Umb Ger Jack Yek Ver Hi Per Xer Koo Quest Bbc Sell Car Ope Loop Far Zeb Wow TTL Man Dad Ele Abc Run New",
+      "title": "Placement Test Upper Case"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "the the the the the the there then there then there then the the the the the the they theft they theft they theft the the the the the the them their them their them their",
+      "title": "the"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "ing ing ing ing ing ing thing ring thing ring thing ring ing ing ing ing ing ing sing wing sing wing sing wing ing ing ing ing ing ing king going king going king going",
+      "title": "ing"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "tion tion tion tion tion tion motion fraction motion fraction motion fraction tion tion tion tion tion tion vacation nation vacation nation vacation nation tion tion tion tion tion tion direction rejection direction rejection direction rejection",
+      "title": "tion"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "est est est est est est best smallest best smallest best smallest est est est est est est quickest nest quickest nest quickest nest est est est est est est rest infest rest infest rest infest",
+      "title": "est"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "and and and and and and hand sand hand sand hand sand and and and and and and band land band land band land and and and and and and grand island grand island grand island",
+      "title": "and"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "int int int int int int internet mint internet mint internet mint int int int int int int interest hint interest hint interest hint int int int int int int lint pint lint pint lint pint",
+      "title": "int"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "ship ship ship ship ship ship internship mentorship internship mentorship internship mentorship ship ship ship ship ship ship citizenship hardship citizenship hardship citizenship hardship ship ship ship ship ship ship shipment leadership shipment leadership shipment leadership",
+      "title": "ship"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "nth nth nth nth nth nth tenth ninth tenth ninth tenth ninth nth nth nth nth nth nth month seventh month seventh month seventh nth nth nth nth nth nth labyrinth hydranth labyrinth hydranth labyrinth hydranth",
+      "title": "nth"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "ear ear ear ear ear ear hear fear hear fear hear fear ear ear ear ear ear ear near gear near gear near gear ear ear ear ear ear ear dear bear dear bear dear bear",
+      "title": "ear"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "ore ore ore ore ore ore core sore core sore core sore ore ore ore ore ore ore bore more bore more bore more ore ore ore ore ore ore shore wore shore wore shore wore",
+      "title": "ore"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 21,
+      "lesson": "Chocolate comes from the fruit of the cacao tree which is commonly found in the deep tropical areas of the Americas. The most commonly found type of the plant first came from the Amazon basin.",
+      "title": "Cacao Tree"
+    },
+    {
+      "goal_wpm": 21,
+      "lesson": "Almost fifty amazing wooden churches stand all over Slovakia, a small country in the heart of Europe. They are all wood without a single nail.",
+      "title": "Wooden Churches"
+    },
+    {
+      "goal_wpm": 21,
+      "lesson": "Lisbon, the capital city of Portugal, is home to the longest bridge in Europe. The Vasco da Gama Bridge in Lisbon is seventeen kilometers or ten and a half miles long.",
+      "title": "Vasco da Gama"
+    },
+    {
+      "goal_wpm": 21,
+      "lesson": "The solar system is the Sun and all the objects in orbit around it. The Sun is orbited by planets, asteroids, comets, and other things.",
+      "title": "Solar System"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "fifty City solar pine Tree cacao Sun orbit amazing system Comet single Nail plant amazon bridge tree",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 21,
+      "lesson": "Dogs were the first animals ever to be domesticated. They are usually playful, friendly, and listen to humans. Thirty million dogs in the United States are registered as pets.",
+      "title": "Dogs"
+    },
+    {
+      "goal_wpm": 21,
+      "lesson": "A thousand years ago, the English language did not put spaces between its words. It made writing faster, but readers had to guess where each word began.",
+      "title": "Spaces in English"
+    },
+    {
+      "goal_wpm": 22,
+      "lesson": "Puppies develop very quickly during their first three months, particularly after their eyes and ears open and they are no longer completely dependent on their mother.",
+      "title": "Puppies"
+    },
+    {
+      "goal_wpm": 22,
+      "lesson": "Books are the quietest and most constant of friends; they are the most accessible and wisest of counselors, and the most patient of teachers. Charles William Eliot",
+      "title": "Books"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "First dog develop During book year Animal usually listen Quick most teacher Guess word Million after",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 23,
+      "lesson": "Whales love to sing. They use songs as a form of communication, and also just for fun. After a period of time, they get bored of the same song and begin to sing a different tune.",
+      "title": "Singing Whales"
+    },
+    {
+      "goal_wpm": 23,
+      "lesson": "Africa is the second largest continent in the world in both size and population. Madagascar is not only a popular animated comedy film, but also the largest island in Africa.",
+      "title": "Africa"
+    },
+    {
+      "goal_wpm": 24,
+      "lesson": "Polyps attach themselves to surfaces like docks and bulkheads. There they grow, until late spring when they become millions of new jellyfish. These jellyfish are sting ready by summer.",
+      "title": "Polyps"
+    },
+    {
+      "goal_wpm": 24,
+      "lesson": "All living things need energy to live, and energy comes from food. Plants can not eat food like animals, so they must get their energy in a different way. They use photosynthesis.",
+      "title": "Photosynthesis"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "sing Energy song attach size Both form need Food grow popular film begin Same Period africa island",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "The name astronaut comes from the Greek words for star and sailor. Astro means star, and naut refers to sailors. Astronauts orbiting Earth can see up to sixteen sunrises and sunsets every day.",
+      "title": "Astronauts"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "Cultural diversity is having different cultures respect each others differences. It could also mean the variety of human societies or cultures in a specific region, or in the world as a whole.",
+      "title": "Cultural Diversity"
+    },
+    {
+      "goal_wpm": 26,
+      "lesson": "Sharks do not have a single bone in their bodies. Rather than bones, sharks have a skeleton made of cartilage. Cartilage is the same type of tough, flexible tissue that makes up human ears and noses.",
+      "title": "Sharks"
+    },
+    {
+      "goal_wpm": 26,
+      "lesson": "Like all sciences, biology uses the scientific method. This means that biologists must be able to show evidence for their ideas, and that other biologists must be able to test the ideas for themselves.",
+      "title": "Biology"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "each single Sharks method bone Name star Greek respect nose human Tissue idea region Sailor culture",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 27,
+      "lesson": "Typewriters, unlike modern keyboards, use large mechanical parts to press ink down on paper. If someone pressed down keys that were next to each other on the typewriter, the parts would sometimes get jammed.",
+      "title": "Typewriters"
+    },
+    {
+      "goal_wpm": 27,
+      "lesson": "The giant panda, or panda, is a bear native to central western and southwestern China. It is easily recognized by its large, distinctive black patches around the eyes, over the ears, and across its round body.",
+      "title": "Pandas"
+    },
+    {
+      "goal_wpm": 28,
+      "lesson": "People who study biology are called biologists. Biology looks at how animals and other organisms behave and work, and what they are like. Biology also studies how organisms react with each other and the environment.",
+      "title": "Biologist"
+    },
+    {
+      "goal_wpm": 28,
+      "lesson": "Keyboards look as if someone jumbled the letters around to make it harder to find each key. In fact, the QWERTY layout was very carefully designed to prevent the mechanical parts of typewriters from jamming together.",
+      "title": "Keyboard Layout"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "modern large Biology around prevent Behave keys native People look body Letter round keyboard Study",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "Our muscles have an amazing way of letting our bodies do difficult things without even thinking about it. It is called Muscle Memory. When you practice typing, you are building muscle memory so you can type without having to focus on it.",
+      "title": "Super Power"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "Ulaanbaatar is the capital of Mongolia and its largest city. As a nomadic city, the capital used to move three times a year. With just four people per square mile, Mongolia is the least densely populated country on Earth.",
+      "title": "Mongolia's Capital"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Arts and crafts have a long history in China. Thousands of years ago the Chinese were some of the first people to use silk, jade, bronze, wood, and paper to make art. The artistic writing called calligraphy was invented in China.",
+      "title": "Chinese Art"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Giant pandas live in the temperate zone bamboo forests of central China. They are among the best recognized but rarest animals in the world. Pandas have come to symbolize endangered species and conservation efforts.",
+      "title": "Pandas, Part 2"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "history Three live black pandas Giant boxing capital Mile move among Effort china Wood paper earth",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "The QWERTY keyboard looks as if someone jumbled the letters around to make it harder to find each key. In fact, this layout was very carefully designed to prevent the mechanical parts of typewriters from jamming together.",
+      "title": "Placement Test Basic Level 2"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "It can be very frustrating to lose your homework. lose lose lose lose lose Be careful because your shoelace is loose. loose loose loose loose loose Their loss today means they are out of the championship. loss loss loss loss loss",
+      "title": "Lose/Loose/Loss"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "The artist painted a beautiful scene with mountains. scene scene scene scene scene I love learning about the universe in science class. science science science science science She drew a scene of her science classroom. scene science scene science",
+      "title": "Scene/Science"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "She thought she saw a rabbit in the woods. thought thought thought thought thought They fought over the last piece of pizza. fought fought fought fought fought I thought they fought too much. thought fought thought fought",
+      "title": "Thought/Fought"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "The dog dug a hole in the backyard for his bone. hole hole hole hole hole My brother and sister ate the whole pizza. whole whole whole whole whole The fat squirrel squished its whole body into the tiny hole in the tree. hole whole hole whole",
+      "title": "Hole/Whole"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "To prepare for a test, you should study hard. prepare prepare prepare prepare prepare Your presence in class makes everyone happy. presence presence presence presence presence They will prepare for the presence of the queen. prepare presence prepare presence",
+      "title": "Prepare/Presence"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "Camels are well adapted to living in the desert. desert desert desert desert desert She baked a delicious dessert to share with her friends. dessert dessert dessert dessert dessert In the hot and dry desert, cold ice cream makes a great dessert. desert dessert desert dessert",
+      "title": "Desert/Dessert"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "He offered her a piece of the vanilla cake. piece piece piece piece piece Everyone wants world peace. peace peace peace peace peace She offered her sister a piece of cake to make peace with her. piece peace piece peace",
+      "title": "Piece/Peace"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "Our teacher is definitely the best. definitely definitely definitely definitely definitely I have completely mastered touch typing. completely completely completely completely completely He definitely said he was completely finished. definitely completely definitely completely",
+      "title": "Definitely..."
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "They laughed because the clown made a ridiculous face. ridiculous ridiculous ridiculous ridiculous ridiculous The glamorous movie star posed for a picture. glamorous glamorous glamorous glamorous glamorous The clown looked ridiculous in the glamorous dress. ridiculous glamorous ridiculous glamorous",
+      "title": "Ridiculous..."
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "The scent of baking cookies drifted from the bakery. scent scent scent scent scent A penny is one cent and a quarter is twenty five cents. cent cent cent cent cent The scent of the cookies convinced him to spend his last cent on them. scent cent scent cent",
+      "title": "Scent/Cent"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "47474477477447447474",
+      "title": "Keys 4 and 7"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "f4f4 j7j7 f4j7 jj7 4ffj 74jf 47fj jf74 4477 4f7j 7j4f j47f 447j 74jf j7j474",
+      "title": "Review: 4 and 7"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "44 cats 74 men 44 doors in the room 74 trees more than 47 is the number 7 is a great choice 4 is a better one 4 by 7 is you guessed right 44 more days give me 4 and a 7 then 47 then 44777",
+      "title": "Practice: 4 and 7"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "88383833883883838838",
+      "title": "Keys 3 and 8"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "d3k8 d3k8 d3k8 kk8 3dd8 k38dk 83kd8 kk38dk k83k 38dk3 k83d d38 k3d8 k 3 8 d",
+      "title": "Review: 3 and 8"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "88 little dogs 3 big cows 33 more likes 83 is greater 38 is not 88 cars 3 shoes 33 bags now 88 sounds good 33 not so good 3 is a little less 8 is more than that 333 and 888 now 338 and 883",
+      "title": "Practice: 3 and 8"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "22929292292992929929",
+      "title": "Keys 2 and 9"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "s2 l9 s2l9 292s 9l2s 9ll2s 2ls9 9s2l l9s2 ll2s 929s 29sl ls92 92ll 2s99 2ls",
+      "title": "Review: 2 and 9"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "29 bat 92 boats 99 cents with 22 more 2 short plants and 92 stones 2 white cars travel 9 hundred miles 29 times to the zoo 2 is a number and 9 is too but 2 is the smaller one you must know",
+      "title": "Practice: 2 and 9"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "10010100100101010011",
+      "title": "Keys 1 and 0"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a1 ;0 a10; 01;a 1010 a;10 0110;a ;a001; 10a;10a; 011;a 1;a0 0a;1 a1;0 ;1a0;",
+      "title": "Review: 1 and 0"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "1 is the only one 0 is none 11 is more and 10 is less 100 is a lot but 1000 is even more learn the numbers and you should know more 1010101 type the key 1 and next type the key 0",
+      "title": "Practice: 1 and 0"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "56565555656556566565",
+      "title": "Keys 5 and 6"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "f5 j6 g5 h6 56gj 55 66 5656 j65f f56j jf56 j5f6 6f5j 5j6f j556f f66j5 f5j6f",
+      "title": "Review: 5 and 6"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "5 cute dolphins, 6 big whales, and 55 balloons are floating in the air. 56 reversed is 65 but 56 is smaller than 65. Five pounds of sand in 6 little jars. 5 is my favorite number and 6 is yours.",
+      "title": "Practice: 5 and 6"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "9234712340987598102346501234087156926357",
+      "title": "Play: All Numbers"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "f4v4r4 b5g5t5 rv4f 5t5gb5g fr4vr4f de3cde3 f4v4f4r d3c3e3d v4c3r4e c3v4e3c3",
+      "title": "Travel 4 and 5"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "d3 c3 d3 e3 s2x2 w2x2 s2 w2 s22x2 sw22 x22w2 x2w x22w d3 c3 d33e c33c33 e3d",
+      "title": "Travel 3 and 2"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a1z1q1 a1z1q1 g5t5b5 b5g5t5 1a1q1z1 5t5g5b5 1q1a1z1 5b5g5t5 1q1a1z1 5b5g5t5",
+      "title": "Travel 1 and 5"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "j7j7m7u7 h6n6y6 u7j7m7 6y6h6n j7m7u7 h6n6y6 7u7j7m7 6h6n6y6 6y6h6n6 7u7j7m7",
+      "title": "Travel 6 and 7"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "k8i8,8 l9.9o9 k8i8,8 i8k8,8 l9l.o9l i8 ,8k8 8i8k8,8 9o9l9.9 8,8k8i8 9.9l9o9",
+      "title": "Travel 8 and 9"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": ";0p0/0 /0;0p0 /0p0/0 h6n6y6 h6y6m6 ;0p0/0 n6y6 0;0/ n6y6 0;0/ 6n6n6n 0/0/0/",
+      "title": "Travel 0 and 6"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "15243 5 4 3 1 23 51 43 2 11 23 42 15 5112 34143 5521 24123 52 2 11 324 5321",
+      "title": "Keys 1 to 5"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "69 07 87 9 7 6789 807 9876 07 79 807 987 60 687 9870 607978 6078 067 66 087",
+      "title": "Keys 6 to 0"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "f4d3 s2a1 g5 d3a1 f4d3 s2g5 a1g5d3 s2f4 g5d3s2 a1d3f4 s2d3 1a2s3d4f5g g54f",
+      "title": "Travel Left"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "j7k8 l9;0 h6k8 j7k8 h6;0 l9k8 h6j7 h6j7 l9;0 k8;0 l9k8 j7h6 k8l9 j70; k89l",
+      "title": "Travel Right"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a1 d3 s2 f4 g5 c2 d4 v5 c1 x4 r4 ev2 ec4 rv2 ce2 ez5 x4c2 b2v4 z4 x2 c53 v2",
+      "title": "Left Hand Numbers"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": ";0 l9 k8 j7 p0 o9 i8 u7 ju7 ki8 lo9 ;p0 m7 m7 ,8 ,8 l9 l9 p0 p0 7j 8k 9l 0p",
+      "title": "Right Hand Numbers"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "j7f4 k8d3 l9s2 ;0a1 4f7j 3d8k 2s9l 1a0; 10a; 29sl 38dk 47fj 56gh dk38 sl29",
+      "title": "Travel All numbers"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "15cars 6bears 4ducks 9chairs 1bus 20trees 9cents 3boats 7trains 18homes 23bikes 76planes 63vans 2men",
+      "title": "Play: Numbers"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "Pi: 3.14159265358 e: 2.7182818284 410998 plus 567292 is 978290 7 dwarfs, 101 dalmatians, 365 days, 24 hours, 60 seconds",
+      "title": "Placement Test Numbers"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "eal eal eal eal eal eal deal real deal real deal real eal eal eal eal eal eal real meal real meal real meal eal eal eal eal eal eal heal peal heal peal heal peal",
+      "title": "eal"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "ate ate ate ate ate ate fate late fate late fate late ate ate ate ate ate ate hate gate hate gate hate gate ate ate ate ate ate ate date rate date rate date rate",
+      "title": "ate"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "ted ted ted ted ted ted created interested created interested created interested ted ted ted ted ted ted united located united located united located ted ted ted ted ted ted counted tainted counted tainted counted tainted",
+      "title": "ted"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "one one one one one one done phone done phone done phone one one one one one one drone cone drone cone drone cone one one one one one one bone zone bone zone bone zone",
+      "title": "one"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "ame ame ame ame ame ame came flame came flame came flame ame ame ame ame ame ame shame blame shame blame shame blame ame ame ame ame ame ame game same game same game same",
+      "title": "ame"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "tor tor tor tor tor tor creator inventor creator inventor creator inventor tor tor tor tor tor tor mentor vector mentor vector mentor vector tor tor tor tor tor tor tractor rotor tractor rotor tractor rotor",
+      "title": "tor"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "ine ine ine ine ine ine dine fine dine fine dine fine ine ine ine ine ine ine shine line shine line shine line ine ine ine ine ine ine wine pine wine pine wine pine",
+      "title": "ine"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "ave ave ave ave ave ave gave save gave save gave save ave ave ave ave ave ave behave forgave behave forgave behave forgave ave ave ave ave ave ave wave cave wave cave wave cave",
+      "title": "ave"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "ound ound ound ound ound ground found ground found ground found ound ound ound ound ound sound hound sound hound sound hound ound ound ound ound ound round pound round pound round pound",
+      "title": "ound"
+    },
+    {
+      "goal_wpm": 29,
+      "lesson": "age age age age age age stage manage stage manage stage manage age age age age age age page wage page wage page wage age age age age age age courage foliage courage foliage courage foliage",
+      "title": "age"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 31,
+      "lesson": "San Francisco, officially the City and County of San Francisco, is the financial, cultural, and transportation center of the San Francisco Bay Area, a region of 7.15 million people which includes San Jose and Oakland.",
+      "title": "San Francisco"
+    },
+    {
+      "goal_wpm": 31,
+      "lesson": "There are over 6,000 languages spoken in the world today, many of which are spoken by fewer than a few hundred people. The top 10 or 12 languages, however, make up the vast majority of all of the speakers in the world.",
+      "title": "Spoken Languages"
+    },
+    {
+      "goal_wpm": 31,
+      "lesson": "New Mexico became a state on January 6, 1912 and became the 47th state accepted into the United States. The state capital is Santa Fe. The population is 1,819,046 and most of the people live in the biggest city, Albuquerque.",
+      "title": "New Mexico"
+    },
+    {
+      "goal_wpm": 31,
+      "lesson": "There are dozens of tectonic plates below the surface of the Earth that move continuously and slowly past each other. When the plates squeeze or stretch, huge rocks form at their edges and the rocks shift with great force, causing an earthquake.",
+      "title": "Earthquake"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "about world Today many county Surface state Mexico past huge edge shift Great force vast area People",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 31,
+      "lesson": "A hurricane is a huge storm. It can be up to 600 miles across and have strong winds spiraling inward and upward at speeds of 75 to 200 mph. Each hurricane usually lasts for over a week, moving 10 to 20 miles per hour over the open ocean.",
+      "title": "Hurricane"
+    },
+    {
+      "goal_wpm": 31,
+      "lesson": "The Pacific Ocean is currently shrinking due to plate tectonics, while the Atlantic Ocean is increasing in size, by roughly an inch per year or 2 to 3 cm/yr on 3 sides, roughly averaging 0.2 square miles or 0.52 square kilometers a year.",
+      "title": "Tectonic Plates"
+    },
+    {
+      "goal_wpm": 32,
+      "lesson": "July 4th is the 185th day of the year or 186th in leap years in the Gregorian calendar. There are 180 days remaining until the end of the year. Aphelion, the point during the orbit of the Earth when it is furthest from the Sun, occurs around this date.",
+      "title": "Aphelion"
+    },
+    {
+      "goal_wpm": 32,
+      "lesson": "Twenty years from now you will be more disappointed by the things that you did not do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover. Mark Twain",
+      "title": "Mark Twain Quote"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "storm Ocean pacific year huge Surface speed last shrink Average until Leap throws harbor Safe over",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 33,
+      "lesson": "Scientists calculate that there are at least 100 billion galaxies in the observable universe, each one brimming with stars. On a very large scale, they form a bubbly structure, in which vast sheets and filaments of galaxies surround gargantuan voids.",
+      "title": "Galaxies"
+    },
+    {
+      "goal_wpm": 33,
+      "lesson": "A train is a connected series of vehicles for rail transport that moves along a track to transport cargo or passengers from one place to another. The track usually consists of two rails, but might also be a monorail or maglev guideway.",
+      "title": "Trains"
+    },
+    {
+      "goal_wpm": 34,
+      "lesson": "Benjamin Franklin carried out extensive electricity research in the 18th century, inventing the lightning rod amongst his many discoveries. Lightning rods protect buildings in the event of lightning by conducting lightning strikes through a grounded wire.",
+      "title": "Lightning Rods"
+    },
+    {
+      "goal_wpm": 34,
+      "lesson": "Weather is the state of the atmosphere at any time, including things such as temperature, precipitation, air pressure, and cloud cover. Daily changes in the weather are due to winds and storms. Seasonal changes are due to the Earth revolving around the sun.",
+      "title": "Weather"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "train Calculate vehicle weather Franklin cloud pressure Invent protect cargo Tracks large Sheet vast",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "The first law of motion says: if a body is at rest it remains at rest or, if it is in motion, it moves with uniform velocity, until it is acted on by a resultant force. An object continues to do whatever it happens to be doing unless a force is exerted upon it.",
+      "title": "Newton's First Law"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "An adult male gorilla is called a silverback because of the distinctive silvery fur growing on their back and hips. Each gorilla family has a silverback as leader who scares away other animals by standing on their back legs and beating their chest.",
+      "title": "Silverback"
+    },
+    {
+      "goal_wpm": 36,
+      "lesson": "The oldest part of New York City, the island of Manhattan, still has its original Lenape Native American name. Although native people such as the Lenape and Canarsees had lived there for many thousands of years, New York City was first explored by Europeans in the 1500s.",
+      "title": "Manhattan"
+    },
+    {
+      "goal_wpm": 36,
+      "lesson": "Hurricanes gather heat and energy through contact with warm ocean waters. Evaporation from the seawater increases their power. Hurricanes rotate in a counterclockwise direction around the eye in the Northern Hemisphere, and clockwise direction in the Southern Hemisphere.",
+      "title": "Inside Hurricanes"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "heat First law Gorilla energy uniform Rest force Velocity name still People native chest because From",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 37,
+      "lesson": "Native American tradition says that they were always in America. Most of the scientific evidence suggests that their ancestors came from Asia in prehistoric times, either by foot over a land bridge or using ancient boats. This would have happened more than 20,000 years ago.",
+      "title": "Native Americans"
+    },
+    {
+      "goal_wpm": 37,
+      "lesson": "Astronomy is the study of everything outside the atmosphere of the Earth. It studies celestial objects such as stars, galaxies, planets, moons, asteroids, comets and nebulae and processes such as supernovae explosions, gamma ray bursts, and cosmic microwave background radiation.",
+      "title": "Astronomy"
+    },
+    {
+      "goal_wpm": 38,
+      "lesson": "The speed of light in a vacuum, usually denoted by c, is a physical constant important in many areas of physics. Its value is 299,792,458 meters per second, a figure that is exact since the length of the meter is defined from this constant and the international standard for time.",
+      "title": "Speed of Light"
+    },
+    {
+      "goal_wpm": 38,
+      "lesson": "A.W. Hawaii Wind is a Texas company. It is proposing two offshore floating wind farms. Each would consist of 50 turbines that would generate about 400 megawatts of energy. The wind farms would be placed more than 10 miles offshore. They would float in waters about a half a mile deep.",
+      "title": "Wind Farms"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "tradition speed Light vacuum Company Texas foot Bridge evidence planet Moon object value Figure exact",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 39,
+      "lesson": "In Spain and many Latin American countries they celebrate New Year by eating 12 grapes at midnight, just as the new year begins. The tradition consists of eating a grape with each bell strike at midnight on December 31. According to the tradition, this leads to a year of prosperity.",
+      "title": "Spanish New Year"
+    },
+    {
+      "goal_wpm": 39,
+      "lesson": "Wild dogs travel in groups called packs. These packs are very social, working together to hunt, raise pups, and share food. They have been known to take care of sick or injured pack members. Wild dogs are different than stray dogs. A stray dog was once a pet, but a wild dog has never been domesticated.",
+      "title": "Wild Dogs"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "The USA has more tornadoes than any other country in the world, averaging around 1,200 a year. This is due largely to the unique geography of the Midwest which forms an area known as Tornado Alley. The highest recorded tornado wind speed is 302 miles per hour, on May 3, 1999 in Bridge Creek, Oklahoma.",
+      "title": "Tornadoes"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "Chicago is the largest city in Illinois. It is the third largest city in the United States, although it used to be the second largest. Chicago is next to Lake Michigan, one of the five Great Lakes. In the 2000 census, almost 2,900,000 people lived there, with six million more people living nearby.",
+      "title": "Chicago"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "Spain new City event Chicago Illinois begin strike Large lake Michigan million six measure lead Grape",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "A train is a connected series of vehicles for rail transport that move along a track to transport cargo or passengers from one place to another.",
+      "title": "Placement Test Basic Level 2"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "$&$&$$&&$&&$$&$$&$&$",
+      "title": "Keys $ and &"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "f$f$ j&j& f$j& jj& $ffj &$jf $&fj jf&$ $$&& $f&j &j$f j$&f $$&j &$jf j&j$&$",
+      "title": "Review: $ and &"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "$resolve &gravity thought$ prepare& chamber$ collecting$ interested& continue$ building& relation& mother$ engage&",
+      "title": "Practice: $ and &"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "**#*#*##**#**#*#**#*",
+      "title": "Keys # and *"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "d#k* d#k* d#k* kk* #dd* k#*dk *#kd* kk#*dk k*#k #*dk# k*#d d#* k#d* k # * d",
+      "title": "Review: # and *"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "#wise *busy #past *both *park #when #length* sooner # thrown * income# expense# windows* drawn# *eat #off *doors *money #welcome *six #day #bed",
+      "title": "Practice: # and *"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "@@(@(@(@@(@((@(@((@(",
+      "title": "Keys @ and ("
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "s@ l( s@l( @(@s (l@s (ll@s @ls( (s@l l(s@ ll@s (@(s @(sl ls(@ (@ll @s(( @ls",
+      "title": "Review: @ and ("
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "@new (event @company (first (culture @island @research lake( @ocean (energy @foot( year@ native( @tradition (vacuum@",
+      "title": "Practice: @ and ("
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "!))!)!))!))!)!)!))!!",
+      "title": "Keys ! and )"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a! ;) a!); )!;a !)!) a;!) )!!);a ;a))!; !)a;!)a; )!!;a !;a) )a;! a!;) ;!a);",
+      "title": "Review: ! and )"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "!state )boat !transport )weather pressure! region! )border sweet! )surface palm! )music! written) index! )habit !paper)",
+      "title": "Practice: ! and )"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "%^%^%%%%^%^%%^%^^%^%",
+      "title": "Keys % and ^"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "f% j^ g% h^ %^gj %% ^^ %^%^ j^%f f%^j jf%^ j%f^ ^f%j %j^f j%%^f f^^j% f%j^f",
+      "title": "Review: % and ^"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "%inside ^power %famous ^south %children %smell ^river% ^follow %piece^ united% ^break %example quick^ @cloud billion^",
+      "title": "Practice: % and ^"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "$&#*@(!)%^*$(@*%!)@(&$&%*(@#$!@%#@&%(@#*",
+      "title": "Play: All Symbols"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "F$ R$ V$ F$ R$ V$ F$R$V$ F$V$R$ $R$F$V $R$F$V $F$R$V R$V$R$",
+      "title": "Travel $"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "D# C# E# D# D# E# C# #D #E #C D#E#C# E#D#C# #E#D#C #D#C#E",
+      "title": "Travel #"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "S@ X@ W@ S@ S@ W@ X@ @S @W @X @W@S@X @W@X@S S@W@X@ W@S@X@",
+      "title": "Travel @"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "A! Q! Z! A! Z! Q! A! Q! Z! A!Q!Z! Q!A!Z! !Q!A!Z !Q!Z!Q",
+      "title": "Travel !"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "G% T% B% B% G% T% G% T% B% %T%G%B %G%B%T G%T%B% T%B%T%",
+      "title": "Travel %"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "J& U& M& J& U& M& J&U&M& J&U&M& &U&J&M &J&M&U &M&J&U",
+      "title": "Travel &"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "K* I* K* K* I* I* K*I*K* K*I*K* *I*K*I *K*I*K K*I*K*",
+      "title": "Travel *"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "L( O( L( O( LL((OO(( (OO(L(OO(L L(O(LL(OO(",
+      "title": "Travel ("
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": ":) P) :) P) ::))PP)) )PP):)PP): :)P)::)PP)",
+      "title": "Travel )"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "H^ Y^ N^ H^ Y^ N^ H^Y^N^ H^N^Y^ ^Y^H^N ^H^Y^N",
+      "title": "Travel ^"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "F$ T% V$ S@ A! D# F$ G% C# W@ Z! a! s@ d# f$ g% q! w@ e# r$ v$ b% x@",
+      "title": "Travel Left"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "J& K* L( :) H^ j& k* l( ;) m& ,* .9 h^ u& i* o( p) y^ n^ ,* i* o( l(",
+      "title": "Travel Right"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a!s@d#f$g%h^j&k*l(;) q!w@e3r$t%y^u&i*o(p) z!x@c#v$b%n^m&,*.(",
+      "title": "Review: Symbols"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "2*2 is 4 & 4! is 24 & 2^3 is 8. $dollar @at gmail (open)close percent%",
+      "title": "Practice: Symbols"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "@home #24 (2*2) is 2^2 or 4 & 2!. $dollar @at (4**4)% & !#21",
+      "title": "Placement Test Symbols"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "own own own own own own grown blown grown blown grown blown own own own own own own shown town shown town shown town own own own own own own drown crown drown crown drown crown",
+      "title": "own"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "ill ill ill ill ill ill fill still fill still fill still ill ill ill ill ill ill bill lill bill lill bill lill ill ill ill ill ill ill will pill will pill will pill",
+      "title": "ill"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "son son son son son son reason person reason person reason person son son son son son son treason season treason season treason season son son son son son son lesson grandson lesson grandson lesson grandson",
+      "title": "son"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "ink ink ink ink ink ink think sink think sink think sink ink ink ink ink ink ink pink link pink link pink link ink ink ink ink ink ink drink wink drink wink drink wink",
+      "title": "ink"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "rea rea rea rea rea rea area reason area reason area reason rea rea rea rea rea rea real reach real reach real reach rea rea rea rea rea rea read react read react read react",
+      "title": "rea"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "eed eed eed eed eed eed feed seed feed seed feed seed eed eed eed eed eed eed breed need breed need breed need eed eed eed eed eed eed indeed greed indeed greed indeed greed",
+      "title": "eed"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "ast ast ast ast ast ast fast last fast last fast last ast ast ast ast ast ast vast past vast past vast past ast ast ast ast ast ast cast blast cast blast cast blast",
+      "title": "ast"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "you you you you you you youth young youth young youth young you you you you you you layout yourself layout yourself layout yourself you you you you you you tryout payout tryout payout tryout payout",
+      "title": "you"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "utt utt utt utt utt utt button butter button butter button butter utt utt utt utt utt utt cutter gutter cutter gutter cutter gutter utt utt utt utt utt utt clutter utter clutter utter clutter utter",
+      "title": "utt"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "ity ity ity ity ity ity unity city unity city unity city ity ity ity ity ity ity cavity sanity cavity sanity cavity sanity ity ity ity ity ity ity gravity reality gravity reality gravity reality",
+      "title": "ity"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "Energy equals mass multiplied by (*) the speed of light squared (^2). The multiplication sign is usually left out, giving e is equal to mc squared.",
+      "title": "Energy formula"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "E^2 is equal to (m0c^2)^2 plus (pc)^2 where #1 E represents the energy of a particle #2 m0 represents the mass of the particle when it is not moving #3 p represents the momentum of the particle when it is moving #4 c represents the speed of light.",
+      "title": "Formula"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "The c^2 in the equation stands for the speed of light squared. To square something means to multiply it by itself. The speed of light is approximately 3 * 10^8. If we square this, we get 9 * 10^16 meters^2/seconds^2 or to 90,000,000,000,000,000 meters^2/seconds^2.",
+      "title": "Math"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "A mention (also known as @replies or tagging, not to be confused with metadata tags or hashtags #) is a means by which a blog post references or links to a user profile. This may be done as a matter of getting the attention of (or drawing attention to) another user of a social networking or blogging service.",
+      "title": "Mention"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "Dogs have lived with people for at least 30,000 years. Dogs can serve people in many ways. For example, there are guard dogs, hunting dogs, herding dogs, and guide dogs for blind people.",
+      "title": "Play: Bottom Row"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "Tigers vary in size depending on their subspecies. Siberian tigers are the largest. Males can grow to be 6 feet (1.8 meters) long (body length) and weigh about 500 pounds (230 kg). Females are a bit smaller. The record weight for males is claimed to be 700 pounds (318 kg), but this cannot be confirmed.",
+      "title": "Tigers"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "Most natural diamonds are formed at high temperature and pressure at depths of 140 to 190 kilometers (87 to 118 mi) in the mantle of the Earth. Minerals containing carbon provide the carbon source, and the growth occurs over periods from 1 billion to 3.3 billion years (25% to 75% of the age of the Earth).",
+      "title": "Natural Diamonds"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "Canada is the second largest country in the world by total area (Russia is the largest). It features the longest coastline in the world, stretching 202080 kilometers (125570 miles). Canada shares the longest land border in the world with the United States, totaling 8891 kilometers (5525 miles).",
+      "title": "Canada"
+    },
+    {
+      "goal_wpm": 41,
+      "lesson": "Fully autonomous vehicles (driverless cars) currently exist in prototype (Google has developed a driverless car). These cars are expected to be available commercially in the near future. Autonomous cars could help to reduce the number of vehicles needed on the road and dramatically increase safety.",
+      "title": "Driverless Cars"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "their provide natural reduce border could increase about Record least world earth around amount These cannot total",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 42,
+      "lesson": "Scandinavia is a geographical and cultural region in Northern Europe, which consists of Norway, Sweden, and Denmark. There is a completely different language spoken in each country (Norwegian, Danish, and Swedish). However, all three languages have Germanic roots and are considered mutually understandable.",
+      "title": "Scandinavia"
+    },
+    {
+      "goal_wpm": 42,
+      "lesson": "Air is the clear gas which living things breathe. It has no color or smell. The air around us is a mixture of many gases and dust particles. It is a mixture of about 78% nitrogen, 21% oxygen, 0.9% argon, 0.04% carbon dioxide, and very small amounts of other gases. There is also an average of about 1% water vapor.",
+      "title": "Air"
+    },
+    {
+      "goal_wpm": 42,
+      "lesson": "France is the third largest country by size in Europe at 248,573 m2 (643,801 km2). The highest point in France is Mont Blanc at 15,771 feet (4,807 m) high, which is also one of the highest points in Europe. The greatest symbol of the country, the Eiffel Tower, was going to be demolished in 1909, but luckily was repurposed as a radio antenna.",
+      "title": "France"
+    },
+    {
+      "goal_wpm": 42,
+      "lesson": "Currently, the tallest building in the world is the Burj Khalifa, standing at 829.8 m (2,722 ft) tall! The Burj Khalifa is located in Dubai, United Arab Emirates. Previous to its completion, the tallest building in the world was Taipei 101, located in Taipei, Taiwan. Taipei 101 is 509.2 m (1,671 ft) tall.",
+      "title": "Tallest Building"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "world however There United Northern about color three symbol around region language water country smell oxygen",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 43,
+      "lesson": "Sleeping Beauty (1959) is an American animated movie produced by Walt Disney Productions and released to movie theaters by Buena Vista Distribution. Sleeping Beauty earned (approximately) $7.7 million in box office rentals. Its production costs totaled $6 million, making it the most expensive Disney movie to that date.",
+      "title": "Sleeping Beauty"
+    },
+    {
+      "goal_wpm": 43,
+      "lesson": "A hashtag, written with a # symbol, is used to index keywords or topics on Twitter. This function was created on Twitter, and allows people to easily follow topics they are interested in. People use the hashtag symbol (#) before a relevant keyword or phrase to categorize their Tweets and for Twitter searches.",
+      "title": "Hashtag"
+    },
+    {
+      "goal_wpm": 43,
+      "lesson": "France is the birthplace of crepes. On almost every street corner you can find a small kiosk serving crepes. There are savory crepes (such as with cheese and ham) or sweet ones (such as with chocolate and fruit). The aroma around crepe shops is so good that it is difficult to pass by without stopping to get a bite.",
+      "title": "French Crepes"
+    },
+    {
+      "goal_wpm": 43,
+      "lesson": "Russia is the largest country in the world by area. It covers more than 1/9 of the land area of the Earth. Russia has the longest railway in the world, the Trans Siberian Railway. To travel from one end to the other would take around 6.5 days! It has connected the cities of Moscow and Vladivostok since 1916.",
+      "title": "Russia"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "street corner phrase office sweet small serving about every almost around include There number without special",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 44,
+      "lesson": "The origin of the ampersand (&) can be traced back to the Latin word et, meaning and. The E and T that make up this word were written together to form a ligature (a character consisting of two or more joined letters). Writing this way saved time, with one letter flowing seamlessly into the next; a form of cursive writing.",
+      "title": "Ampersand"
+    },
+    {
+      "goal_wpm": 44,
+      "lesson": "Coconuts come from the coconut palm tree which grows throughout the tropics and subtropics. The coconut palm (Cocos nucifera) can grow up to 30 m (98 ft) tall and the leaf fronds can grow to be 4 to 6 m (13.1 to 19.7 ft) long. Coconut milk has a high fat content of around 17%, but is low in sugar.",
+      "title": "Coconut"
+    },
+    {
+      "goal_wpm": 44,
+      "lesson": "Costa Rica only takes up 0.03% of the surface of the planet but holds 5% of its biodiversity! There are over 130 species of fish, 220 species of reptiles, 1,000 species of butterflies, 9,000 species of plants, 20,000 species of spiders, and 34,000 species of insects! More than 25% of Costa Rican land is protected national parks and refuges.",
+      "title": "Costa Rica"
+    },
+    {
+      "goal_wpm": 44,
+      "lesson": "A famous story known by all French citizens, and many others around the world, is about 19 year old Joan of Arc during the Hundred Years War. Due to her leadership and courage, the French army won many battles. However, Joan was eventually captured by the Burgundians.",
+      "title": "Jeanne d'Arc"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "written content about writer together world known However There national story water flowing letter alive coconut",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 45,
+      "lesson": "The makeup of our bodies changes as we age. The proportion of muscle decreases, and the proportion of body fat increases. This slows metabolism, or the rate at which the body converts food into energy. As a result, it is easier for middle aged people to put on weight, even if they do not change how they eat or how much they exercise.",
+      "title": "Metabolism"
+    },
+    {
+      "goal_wpm": 45,
+      "lesson": "Country music has its roots and beginnings in folk music. The old cowboy and pioneer songs of the American frontier were popular in the early twentieth century, and so were arrangements of pop music songs by rural (or rural sounding) performers. Country musicians also adapted new musical instruments, like the Hawaiian steel guitar.",
+      "title": "Country Music"
+    },
+    {
+      "goal_wpm": 45,
+      "lesson": "Formal education is usually in school, where a person may learn basic, academic, or trade skills. Small children often attend a nursery school or kindergarten but often formal education begins in elementary school and continues with secondary school. Post secondary education (or higher education) is usually at a college or university.",
+      "title": "Formal Education"
+    },
+    {
+      "goal_wpm": 45,
+      "lesson": "Frogs are amphibians of the order Anura. There is no fundamental difference between frogs and toads, and they are not classified separately. This is because the toad lifestyle, with its dry, rough skin, is an adaptation to living in drier habitats. The toad form has evolved a number of times independently, an example of convergent evolution.",
+      "title": "Frogs"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "change usually Order evolve makeup Convert academic proportion Weight country Nursery energy formal Attend",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 45,
+      "lesson": "energy equals mass * (multiplied by) the speed of light 2 (squared). The multiplication sign is usually left out, giving e is equal to mc 2",
+      "title": "Placement Test Adv 1"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "`~`~`~``~~`~``~~~`~`",
+      "title": "Keys ~ and `"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "a~a` j~k` u~i` e~w` P~n` c`x~",
+      "title": "Review: ~ and `"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "some` symbols~ are` kind~ of` difficult~ to master`",
+      "title": "Practice: ~ and `"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "\"'\"'\"''\"\"'\"\"'\"'\"\"'\"\"",
+      "title": "Keys ' and \""
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "e'c\" y'i\" n'c\" w\"q' i'p\" q'W\"",
+      "title": "Review: ' and \""
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "we don't always use \"special symbols\" in normal text",
+      "title": "Practice: ' and \""
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "-=-=--=-==-=-=--==-=",
+      "title": "Keys - and ="
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "e-w= c-v= n-i= q-e= i=x- s-a=",
+      "title": "Review: - and ="
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "minus- and equal= symbols are- typed with= the -same- finger=",
+      "title": "Practice: - and ="
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "_+_+__+_+_+++_+_++_+",
+      "title": "Keys _ and +"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "d_w+ w_q+ j+l_ n_i+ q_o+ c+x_",
+      "title": "Review: _ and +"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "_ and + are _more_ examples +of+ symbols_ on +the keyboard+",
+      "title": "Practice: _ and +"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "[][[][][]][][][]][][",
+      "title": "Keys [ and ]"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "w[d] c]z[ i[p] l[s] S]Q[ K[p] ]s[",
+      "title": "Review: [ and ]"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "open[ and closed] square[] brackets are [symbols] used ]in[ coding",
+      "title": "Practice: [ and ]"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "{}{{}{}}}{{}{{}}{}}{",
+      "title": "Keys { and }"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "w{q} c}d} k{s} }ww{ s{W} o{a}",
+      "title": "Review: { and }"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "open{ and closed} curly{} brackets are {also} used frequently {in} coding",
+      "title": "Practice: { and }"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "\\|\\|\\\\|\\\\|||\\|\\|\\\\|\\",
+      "title": "Keys \\ and |"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "w|s\\ x\\q| o\\p| k\\z\\ o|i| p\\u\\",
+      "title": "Review: \\ and |"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "some|more|examples \\of\\symbols\\ are the |pipe| and \\back\\slash symbols",
+      "title": "Practice: \\ and |"
+    },
+    {
+      "goal_wpm": 1,
+      "lesson": "<><><>><<><><>>><<>>",
+      "title": "Keys < and >"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "x<o> p>d< t>w< u>i< s>a> p>w<",
+      "title": "Review: < and >"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "there are <two> more symbols >to< learn. The less<than and greater>than signs.",
+      "title": "Practice: < and >"
+    },
+    {
+      "goal_wpm": 10,
+      "lesson": "~-+[{]|+-'\"-+-_[{]'|{\"\\~`'~]{]}\\|]]_~_~'",
+      "title": "Play: Symbols"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "\\]['=-` \\][=-'` \\]['=-` \\]['=-` =]-'` \\] =['`\\",
+      "title": "Review: no shift"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "|}{\"+_~ |}{\"+_~ |}{\"+_~ |}{\"+_~ +}_\"~ |} +{\"~|",
+      "title": "Review: with shift"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "{it} is -equally+ [important] to \\learn\\ \"how\" to' type _all_ the symbols+ =on _your` keyboard~",
+      "title": "Practice: Symbols 1"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "\\Typing` {symbols~ can\" 'be] =tricky_ [so+ \\keep- =practicing| =until~ 'you{ }fully[ 'master~ \\it\\",
+      "title": "Practice: Symbols 2"
+    },
+    {
+      "goal_wpm": 15,
+      "lesson": "_at_ this+point- you\\ should- be' able| to type~ all\" the{ letters] and symbols{ on} [your] |keyboard\\",
+      "title": "Practice: Symbols 3"
+    },
+    {
+      "goal_wpm": 25,
+      "lesson": "_at_ this+point- you\\ should- be' able| to type~ all\" the{ letters] and symbols{ on} [your] |keyboard\\",
+      "title": "Placement Test More Symbols"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "The weather is supposed to be warmer tomorrow. weather weather weather weather weather You can still come whether or not you are invited. whether whether whether whether whether Whether the weather is good, or whether the weather is bad, whatever the weather, we'll weather together. weather whether weather whether",
+      "title": "Weather/Whether"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "The bright flash of lightning lit up the night sky. lightning lightning lightning lightning lightning The sun is lightening the sky as it rises. lightening lightening lightening lightening lightening Flashes of lightning are lightening up the sky. lightning lightening lightning lightening",
+      "title": "Lightning"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "We should do all we can to save the environment. environment environment environment environment environment Use your best judgment when making choices. judgment judgment judgment judgment judgment Good judgment can save the environment. environment judgment environment judgment",
+      "title": "Environment..."
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Their teacher said they were the best class. their their their their their They're climbing to the top of the mountain. they're they're they're they're they're There are so many monkeys in that tree! there there there there there",
+      "title": "Their/They're..."
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "You should keep your personal belongings safe. personal personal personal personal personal The company's personnel were trained well. personnel personnel personnel personnel personnel The company's personnel each have a personal laptop. personal personnel personal personnel",
+      "title": "Personal/Personnel"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Tell your friends you appreciate them often. appreciate appreciate appreciate appreciate appreciate He would exaggerate about how fast he could type. exaggerate exaggerate exaggerate exaggerate exaggerate I do not exaggerate when I say how much I appreciate you. appreciate exaggerate appreciate exaggerate",
+      "title": "Appreciate..."
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Majority rule is a basic principle of democracy. principle principle principle principle principle Our school's principal is a kind and intelligent woman. principal principal principal principal principal Their principal reminded them of the principle rule: be kind to others. principle principal principle principal",
+      "title": "Principle/Principal"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "She wrote the date on the calendar. calendar calendar calendar calendar calendar He was not particular about food. He would eat anything. particular particular particular particular particular Which particular calendar did you want to buy? calendar particular calendar particular",
+      "title": "Grammar"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Sometimes it's hard to understand a difficult subject. it's it's it's it's it's The dog turned its head and barked. its its its its its When a dog is wagging its tail, it's usually happy. its it's its it's its",
+      "title": "It's/Its"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "Though she be but little, she is fierce. though though though though though He gave a thorough explanation of the math principle. thorough thorough thorough thorough thorough Even though he was thorough, he still made a mistake. though thorough though thorough",
+      "title": "Though/Thorough"
+    },
+    {
+      "goal_wpm": 20,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "In 2011, the U.S. Fish and Wildlife Service announced that the red-crowned parrot warranted federal protection. They too acknowledged that the birds' homes have been lost, and that they've been poached for the pet trade. They want the birds to be protected by being on America's official list of endangered species.",
+      "title": "Red-Crowned Parrot"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "During the eclipse of 2017, the Moon's shadow raced over the Earth's surface at more than 2,000 miles per hour. A roughly 65-mile-wide zone, called the path of totality, offered the best viewing. Stars and planets came out, and the Sun's corona glowed in a perfect circle around the dark side of the Moon.",
+      "title": "Eclipse of 2017"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "Thomas Jefferson, the third of ten children, was born on April 13, 1743 in Shadwell, Virginia into a planter family. His parents were Peter and Jane Jefferson. He had six sisters and three brothers. At 9 years old Jefferson began studying Latin, Greek, and French; he also learned to ride horses, and began to study nature.",
+      "title": "Thomas Jefferson"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "Food allergies are fairly common amongst adults and even more so among children. Around 2% of adults and 8% of children suffer from some type of food allergy where the immune system makes a mistake and thinks a certain food protein is dangerous and attacks it. Common food allergies are to seafood and peanuts.",
+      "title": "Food Allergies"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "family around certain third Service began study circle surface among being perfect federal include where known",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "King Kong is a fictional character, a giant movie monster resembling a gorilla, that has appeared in several movies since 1933. These include the groundbreaking 1933 movie, the film remakes of 1976 and 2005, as well as various sequels of the first two films. The character has become one of the world's most famous movie icons.",
+      "title": "King Kong"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "In 2017, the mainland U.S. will experience its first solar eclipse in almost 30 years. At the time of writing, the eclipse is scheduled to occur on August 21, 2017. Some are calling it the Great American Eclipse because the moon's shadow will cross twelve states from Oregon in the Pacific Northwest to South Carolina in the Southeast.",
+      "title": "Great Eclipse"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "The timing of the Great Depression varied across nations, but in most countries it started in 1929 and lasted until the late 1930s or early 1940s. It was the longest, most widespread, and deepest depression of the 20th century. In the 21st century, the Great Depression is commonly used as an example of how far the world's economy can decline.",
+      "title": "Great Depression"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "The four outer planets, or gas giants, collectively make up 99% of the mass known to orbit the Sun. Jupiter and Saturn are each many tens of times the mass of the Earth and consist overwhelmingly of hydrogen and helium. Uranus and Neptune are far less massive (<20 Earth masses) and possess more ice in their makeup.",
+      "title": "Jovian Planets"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "cross These their first because mainland include become various example economy until orbit solar twelve famous",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 47,
+      "lesson": "Independence Day in the United States of America is celebrated on the 4th of July. On this day, the Declaration of Independence was approved by Congress. This document declared that the 13 colonies were a new nation, and independent from the British Empire.",
+      "title": "Independence Day"
+    },
+    {
+      "goal_wpm": 47,
+      "lesson": "When humans burn fossil fuels like gas and oil, a gas called carbon dioxide is released into the air. There, it reacts with water vapor. Some of the carbon falls back to Earth as rain. This causes the level of carbon in the ocean to rise. The carbon prevents oysters and clams from growing thick, hard shells. It also hurts coral.",
+      "title": "Carbon Dioxide"
+    },
+    {
+      "goal_wpm": 47,
+      "lesson": "Cars with diesel engines tend to have better fuel economy, which means they can travel further on a single tank of gas. The drawback is that diesel engines emit gases called oxides of nitrogen, which pollute the environment. NOx can lead to acid rain, smog, and ozone. High levels of NOx in the atmosphere can make it hard to breathe.",
+      "title": "Diesel Engines"
+    },
+    {
+      "goal_wpm": 47,
+      "lesson": "Fathers are more involved in their children's lives today than in the past, says a new report from the American Academy of Pediatrics. It draws on census data, surveys, and academic research. Among the findings, the number of stay-at-home dads has increased by more than 60%. There were 98,000 in 2003 and 159,000 in 2012, according to the U.S. Census.",
+      "title": "Stay-at-home Dads"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "research Academy their number water single level ocean United declared drawback better Among economy colonies",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 48,
+      "lesson": "The president of the United States of America is both the head of state and head of the government. The office of president was created in the United States Constitution in 1788. The first president took office in 1789. The president serves as chief executive and is in charge of the executive branch of the United States government.",
+      "title": "The US President "
+    },
+    {
+      "goal_wpm": 48,
+      "lesson": "In Mexico, bird habitats have been destroyed as forests and trees have been cut down to make room for farms and ranches. Right now, scientists are working to get an accurate count of the population. The last study, published in 1994, estimated the parrot population to be 3,000 to 6,500 birds. That's down from more than 100,000 in the 1950s.",
+      "title": "Mexican Parrots"
+    },
+    {
+      "goal_wpm": 48,
+      "lesson": "In 1776, colonists from Spain established a fort at the Golden Gate and a mission named for Francis of Assisi. The California Gold Rush of 1849 propelled the city into a period of rapid growth, increasing the population in one year from 1,000 to 25,000, and thus transforming it into the largest city on the West Coast at the time.",
+      "title": "Gold Rush"
+    },
+    {
+      "goal_wpm": 48,
+      "lesson": "Pluto is the 2nd most massive known dwarf planet in the solar system and the 10th most massive body observed directly orbiting the Sun. Originally classified as the 9th planet from the Sun, Pluto was recategorized as a dwarf planet and plutoid due to the discovery that it is 1 of many large bodies in the newly charted Kuiper belt.",
+      "title": "Pluto"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "after state ninth first Right study within second several charge period chief United planet Coast Solar branch count",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 49,
+      "lesson": "First inhabited more than 10,000 years ago, the cultures that developed in Mexico became one of the cradles of civilization. During the 300 year rule by the Spanish, Mexico became a crossroad for the people and cultures of Europe, Africa, and Asia. The government of Mexico actively promotes shared cultural traits in order to create a national identity.",
+      "title": "Mexico"
+    },
+    {
+      "goal_wpm": 49,
+      "lesson": "The Moon is in synchronous rotation with Earth. This means it always shows Earth the same face with its near side marked by dark volcanic maria that fills the spaces between the crustal highlands and impact craters. It is the brightest object in the sky after the Sun, although its surface is actually dark.",
+      "title": "The Moon"
+    },
+    {
+      "goal_wpm": 49,
+      "lesson": "The word oil is used for many different kinds of liquids. Oil usually does not mix with water. Some oils are made from plants and used in foods and for cooking. Some varieties of plant oils are African palm, maize (corn), olive, peanut, soy, and sunflower. Other kinds of oil are made from crude oil (petroleum) which comes from under the ground.",
+      "title": "Oil"
+    },
+    {
+      "goal_wpm": 49,
+      "lesson": "Plants take water from soil through their veins, which are called xylem. The water goes to their leaves, which take carbon dioxide from the air. Carbon dioxide mixes with the water. Energy from the sun helps this process along and turns the combination into a sugar called glucose. Glucose is plant food, it gives plants energy to grow.",
+      "title": "Life of Plants"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "peanut plant after Other process object their people Energy number water Earth fatigue under before always although",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 50,
+      "lesson": "It might only take you a few minutes to finish a meal but it takes your body around 12 hours before it has completely digested the food. The human body needs iron to help perform a number of important functions. Iron helps carry oxygen to parts of your body in the form of hemoglobin. Not having enough can lead to iron deficiency and symptoms such as weakness and fatigue.",
+      "title": "Iron"
+    },
+    {
+      "goal_wpm": 50,
+      "lesson": "Persians invented a type of evaporative cooler known as a Yakhchal around 400 BCE. It was a dome-shaped object used as a means of refrigeration. The items meant to be kept cool were stored in the subterranean part of this structure and since it had this subterranean space as well as heat-resistant materials, it was capable of storing ice or foods in the hot desert year-round.",
+      "title": "Refrigeration"
+    },
+    {
+      "goal_wpm": 50,
+      "lesson": "Muhammad Ali, the three time world heavyweight boxing champion, never forgot his roots. He returned to his old neighborhood and visited high school classmates even after becoming one of the most recognizable men in the world. Muhammad Ali was born and raised in Kentucky, where he started boxing at the age of 12.",
+      "title": "Muhammad Ali"
+    },
+    {
+      "goal_wpm": 50,
+      "lesson": "There are many more people working on pop music than those that are seen on stage or in the video. These people include the studio, production, distribution and retail staff, each of which help the musicians to record with extensive quality control, and sell it to the stores and finally to people.",
+      "title": "Music Production"
+    },
+    {
+      "goal_wpm": 30,
+      "lesson": "muscle Persians meal cooler Power quality Include structure fatigue iron Memory music retail Video function Oxygen",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 45,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 50,
+      "lesson": "In 2011, the U.S. Fish and Wildlife Service announced that the red-crowned parrot warranted federal protection.",
+      "title": "Placement Test 50WPM"
+    },
+    {
+      "goal_wpm": 51,
+      "lesson": "There are roughly six times more sheep in Australia than there are people. Australia is a relatively wealthy country which makes it an attractive place to live for many people around the world. Sydney is one of the eight capital cities in Australia. It is also Australia's largest city, followed by Melbourne, Brisbane, Perth and Adelaide.",
+      "title": "Australia"
+    },
+    {
+      "goal_wpm": 51,
+      "lesson": "Robots have many uses. Factories use industrial robots to do hard work quickly and without mistakes. The military uses robots to find and get rid of bombs. If a mistake is made on a battlefield, the robot is damaged or destroyed, which is better than a person being killed. There are also domestic robots that can vacuum or cut grass.",
+      "title": "Robots"
+    },
+    {
+      "goal_wpm": 51,
+      "lesson": "A windmill converts the energy of the wind into rotational energy. Wind power stations use the wind to turn a turbine which turns a magnet inside a coil. The wind has kinetic energy (movement energy) which is changed into mechanical energy by the blades on the turbine. The turbine then turns a generator which creates electrical energy (voltage).",
+      "title": "Windmills"
+    },
+    {
+      "goal_wpm": 51,
+      "lesson": "China has the world's oldest continuous civilization. There is archaeological evidence of this that is over 5,000 years old. China also has one of the world's oldest writing systems, and is viewed as the source of many major inventions. China is home to some of the oldest artwork in the world. Statues and pottery are some classic examples.",
+      "title": "Ancient China"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "quickly being better world There without power health inside major person learn vitamins because energy",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 51,
+      "lesson": "The four farthest planets in the solar system, Jupiter, Saturn, Uranus, and Neptune, are called gas giants. This is because they are large planets that are mostly made of gas, such as hydrogen and helium, with a relatively small rocky core. Even though they are made of gas, they have significantly more mass than the terrestrial planets.",
+      "title": "Gas Giants"
+    },
+    {
+      "goal_wpm": 52,
+      "lesson": "Water is a molecule made of 2 hydrogen atoms and 1 oxygen atom. Its chemical formula is H2O. Water has surface tension, so a little bit of water makes drops rather than spreading out over the surface. Though a human being can survive for up to a week without food, they can only survive for a day or two without water.",
+      "title": "Water"
+    },
+    {
+      "goal_wpm": 52,
+      "lesson": "When you do research, always remember to write down the places you find information. This is called citing, or making a citation. A good idea is to bookmark all of the pages with information you want to use so you don't lose track of your sources. Then, when you are ready to make your bibliography, you'll be prepared.",
+      "title": "Citation"
+    },
+    {
+      "goal_wpm": 52,
+      "lesson": "Although we think of our Sun as a unique celestial body, it is actually one of trillions of stars in the universe. Some estimates for stars similar to the Sun in just the Milky Way galaxy are as high as 7 billion. If this number is correct, there could be over one trillion stars that are roughly the same as our Sun in the universe.",
+      "title": "The Sun"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "ad add bad brad cad chad clad dad fad gad glad grad had lad mad pad plaid rad sad tad doodad dyad comrade granddad",
+      "title": "Rhyming words"
+    },
+    {
+      "goal_wpm": 52,
+      "lesson": "A black hole is a region of spacetime from which nothing, not even light, can escape. The theory of general relativity predicts that a sufficiently compact mass will deform spacetime to form a black hole. Most black holes are made when a supergiant star dies.",
+      "title": "Black Hole"
+    },
+    {
+      "goal_wpm": 52,
+      "lesson": "How much time do you spend thinking about the communities you belong to? If you're like most of us, probably not enough. That's because we take them for granted. Whether it's our circle of friends, the clubs we've joined or even the sports teams we play for, we tend to forget we belong to many different communities at the same time.",
+      "title": "Your Communities"
+    },
+    {
+      "goal_wpm": 53,
+      "lesson": "The first woman to win a Nobel Prize was Marie Sklodowska Curie, who won the Nobel Prize in Physics in 1903 with her husband, Pierre Curie, and Henri Becquerel. Curie is also the only woman to have won multiple Nobel Prizes; in 1911, she won the Nobel Prize in Chemistry. Curie's daughter, Irene Joliot-Curie, won the Nobel Prize in Chemistry in 1935.",
+      "title": "Marie Curie"
+    },
+    {
+      "goal_wpm": 53,
+      "lesson": "While there are hundreds of thousands of known marine life forms, there are many that are yet to be discovered. Scientists suggest that there could actually be millions of marine life forms out there. We've only explored about 5% of Earth's oceans! The oceans cover 71% of the Earth's surface and contain 97% of the Earth's water.",
+      "title": "Marine Life"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "cab crab dab drab fab flab gab grab jab lab nab scab slab stab tab",
+      "title": "Rhyming words"
+    },
+    {
+      "goal_wpm": 53,
+      "lesson": "Different types of birds eat different foods. Most birds are carnivorous meaning that they eat meat. Some examples are fish, small reptiles, insects, and mice. Birds of prey eat mammals and other birds. Many birds such as parrots and finches live on seeds and fruit.",
+      "title": "Birds"
+    },
+    {
+      "goal_wpm": 53,
+      "lesson": "A river is a stream of water that flows through a \"channel\" (or passage) in the surface of the ground. The passage where the river flows is called the riverbed and the earth on each side is called a riverbank. A river begins on high ground or in hills or mountains and flows down from the high ground to the lower ground due to gravity.",
+      "title": "River"
+    },
+    {
+      "goal_wpm": 53,
+      "lesson": "New Zealand was the first country in the world to allow women to vote in 1893. It has been recognized as the world's most peaceful country. New Zealanders refer to themselves as Kiwis, which probably dates back to World War I when New Zealand soldiers acquired the nickname. The New Zealand dollar coin features a kiwi bird on one side.",
+      "title": "New Zealand"
+    },
+    {
+      "goal_wpm": 54,
+      "lesson": "Indonesia is the largest archipelago in the world, and is made up of 18,000 separate islands. Indonesia is home to the most odorous flower on Earth, often referred to as the corpse flower. It can grow to an average height of 2 meters (6.5 ft). When it blooms, it releases a foul odor comparable to rotten meat, which can be smelled from half a mile away.",
+      "title": "Indonesia"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "clear color sketch There oxygen women least small water believe people average children result still paper their",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 54,
+      "lesson": "Washington was a delegate to the First Continental Congress, which was created by the Thirteen Colonies to respond to various laws passed by the British government. Washington was chosen by the Second Continental Congress to be the commanding general of the Continental Army. Washington led the army from 1775 until the end of the war in 1783.",
+      "title": "George Washington"
+    },
+    {
+      "goal_wpm": 54,
+      "lesson": "Crowdfunding is becoming a popular option for early-stage startups. It generates buzz among potential customers. It may be an especially attractive option in the current market, with venture funding harder to come by. But multimillion-dollar success stories remain rare. Crowdfunding isn't expected to replace venture funding anytime soon.",
+      "title": "Crowdfunding"
+    },
+    {
+      "goal_wpm": 54,
+      "lesson": "Background actors are also known as \"extras\". They are often called the unsung heroes of TV shows, movies, music videos, and commercials. They are men, women, and sometimes children who get paid $8-$12 an hour. They make city streets look busy, hospitals look crowded, and parties look fun.",
+      "title": "Background Actors"
+    },
+    {
+      "goal_wpm": 54,
+      "lesson": "A robot may not injure a human being, or through inaction, allow a human being to come to harm. A robot must obey orders given to it by human beings, except where such orders would conflict with the first law. A robot must protect its own existence as long as such protection does not conflict with the first or second law.",
+      "title": "Laws of Robotics"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "among current remain given human children Congress Colonies women music general first various allow where often",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "While grapes are an important part of many Mediterranean cultures, nothing beats the importance of olives in Spain. The cultivation of olives and the production of olive oil have deep roots in Spanish history. About 45% of the world's olive oil is produced in Spain! Each year, the average Spaniard consumes around 14 liters (or 3.7 gallons) of olive oil.",
+      "title": "Olive Oil"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "Germany is one of the largest and most powerful economies in Europe. After the United States, Germany is the second most popular country for migration in the world. When John F. Kennedy visited Berlin in June, 1963, he infamously said, \"Ich bin ein Berliner\", which also happens to translate in German as \"I am a jelly donut\".",
+      "title": "Germany"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "The leaves of trees are green most of the time, but they can come in many colors, shapes, and sizes. Leaves take in sunlight and use water and food from the roots to help the tree grow and reproduce. Trees and shrubs take in water and carbon dioxide and give out oxygen. As a tree grows, it may produce growth rings.",
+      "title": "Trees"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "A flower is a part of a plant. Flowers are also called the bloom or blossom of a plant. The plant grows on a stalk, a thin node, which supports the flower. Flowers have petals. Inside the petals are the parts which produce seeds. Flowers are the reproductive structure of flowering plants, which are plants of the division Magnoliophyta.",
+      "title": "Flowers"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "water nothing second their division flower Inside green oxygen After culture family produce world country people",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 46,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "There are roughly six times more sheep in Australia than there are people. Australia is a relatively wealthy country which makes it an attractive place to live for many people around the world.",
+      "title": "Placement Test 55WPM"
+    },
+    {
+      "goal_wpm": 56,
+      "lesson": "Pokemon (abbreviated from Pocket Monsters) is a Japanese anime series. It is part of the Pokemon media franchise which is owned by Nintendo. It has been brought to many other places, including North America, Europe, and Australia. The series is about Pokemon and the humans (trainers) that catch and train them to battle each other.",
+      "title": "Pocket Monsters"
+    },
+    {
+      "goal_wpm": 56,
+      "lesson": "California is a big power in American culture as well as the business life of the nation. Many of the great changes in technology and law came from California, and the state pays more to the U.S. government than it gets back. It also has some of the country's largest cities, such as Los Angeles, San Diego, San Jose, and San Francisco.",
+      "title": "California"
+    },
+    {
+      "goal_wpm": 56,
+      "lesson": "Drone flights will be permitted only during the day and at twilight. Drone industry officials have long complained that these time restrictions precluded a great many uses. Among them are some search and rescue operations. Some agricultural operations are best done after dark as well. Operators can seek waivers to many of these restrictions.",
+      "title": "Drones"
+    },
+    {
+      "goal_wpm": 56,
+      "lesson": "A tree is a tall plant with a trunk and branches made of wood. It can live for many years. The four main parts of a tree are the roots, the trunk, the branches, and the leaves. A single tree has many roots. The roots of a tree are usually underground. One case for which this is not true are the roots of the mangrove tree.",
+      "title": "Parts of Trees"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "\"The most difficult thing is the decision to act, the rest is merely tenacity.\" Amelia Earhart was the first female aviator to fly solo across the Atlantic Ocean. In 1937, Earhart disappeared over the central Pacific Ocean near Howland Island when attempting to make a circumnavigational flight around the globe.",
+      "title": "Amelia Earhart"
+    },
+    {
+      "goal_wpm": 56,
+      "lesson": "Alexander Graham Bell was the first person to patent the telephone, in 1876. Early telephones were wired directly to each other and could only talk to the phone that they were connected to. Later, telephone exchanges allowed connecting to other telephones. During the 20th century the machines that made the connections were automated.",
+      "title": "Telephone"
+    },
+    {
+      "goal_wpm": 57,
+      "lesson": "The Korean alphabet, also known as Hangul, is the native alphabet of the Korean language. It was created by Sejong the Great during the Joseon Dynasty in 1443, and is now the official script of both South Korea and North Korea. There are 14 basic consonants and 10 basic vowels. Letters that have similar sounds also have similar shapes.",
+      "title": "Korean Language"
+    },
+    {
+      "goal_wpm": 57,
+      "lesson": "Seawater cannot be drunk safely because it has high salinity, or concentration of salt. Seawater is also called salt water. Both people and animals often live near rivers, because they need water to survive. The water in a river is called fresh water. Fresh water comes from rain or snow and it can usually be drunk safely, unless it has been polluted.",
+      "title": "Seawater"
+    },
+    {
+      "goal_wpm": 57,
+      "lesson": "Birds are found on every continent of the world. Birds of different types can live in freezing cold environments, and others can live in hot deserts. Birds live in forests, in grasslands, on cliff faces, in river banks, on stony seashores, down mine shafts, and under the roofs of houses.",
+      "title": "Birds"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "\"Life is what happens to you while you're busy making other plans.\" John Lennon was an English singer & songwriter, and one of the founders of the Beatles. The Beatles were one of the most influential bands of their time. Lennon also had a solo career with such famous songs as \"Imagine\" and \"Give Peace a Chance\".",
+      "title": "John Lennon"
+    },
+    {
+      "goal_wpm": 57,
+      "lesson": "Walt Disney worked very hard to run his movie studio. He liked to spend weekends with his two daughters. The family liked going to carnivals and fairs. Mr. Disney wanted to build a place that had all of the fun of the traveling fairs where parents and children could ride together. That is how Mr. Disney got the idea for Disneyland.",
+      "title": "Walt Disney"
+    },
+    {
+      "goal_wpm": 57,
+      "lesson": "One famous attraction of Indiana is the Indianapolis Motor Speedway, which is where the Indy 500 is held every year. The Indy 500 is one of the most famous car races in the United States. The Indianapolis Motor Speedway is not actually in Indianapolis. It is in a town called Speedway, which is completely surrounded by Indianapolis.",
+      "title": "Indy 500"
+    },
+    {
+      "goal_wpm": 58,
+      "lesson": "At first, Washington D.C. was made up of a piece of Virginia located south of the Potomac River and a piece of Maryland located north of the Potomac River. In 1847, Virginia's land was returned to it. This area is now part of Arlington County. Since 1847, all of Washington D.C. is on the north side of the Potomac River.",
+      "title": "Washington D.C."
+    },
+    {
+      "goal_wpm": 58,
+      "lesson": "In the United States, the presidential election is held every four years on the Tuesday after the first Monday in November. You help choose your state's electors when you vote for President because when you vote for your candidate you are actually voting for your candidate's electors. This is part of a system called the Electoral College.",
+      "title": "Election"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "\"Whether you think you can or you think you can't, you're right.\" Henry Ford was an American industrialist, the founder of the Ford Motor Company, and the sponsor of the development of the assembly line technique of mass production. Ford developed and manufactured the first automobile that many middle-class Americans could afford.",
+      "title": "Henry Ford"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "wood Drone branches busy Piece attraction Florida states important Business life safely culture years Seawater Disney spend South famous",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 58,
+      "lesson": "The United States Constitution makes the President the Commander-in-Chief of the armed forces and lists powers given to the president. George Washington was the first President of the United States from 1789 to 1797. He was also the commander in chief of all American forces during the American Revolutionary War.",
+      "title": "U.S. Constitution"
+    },
+    {
+      "goal_wpm": 58,
+      "lesson": "The Moon appears to have more craters and scars than Earth because it has a lot less natural activity. The Earth is constantly reforming its surface through earthquakes, erosion, rain, wind, and plants growing on the surface. The Moon, however, has very little weather or activity that would alter its appearance.",
+      "title": "Moon's Surface"
+    },
+    {
+      "goal_wpm": 58,
+      "lesson": "A library is not a bookstore (a store that sells books). Many places have a public library, where anybody can join if they live in the area. With a library card, people can borrow books and take them home for several weeks. It does not cost money to get a library card at most public libraries.",
+      "title": "Library"
+    },
+    {
+      "goal_wpm": 59,
+      "lesson": "Thailand has been raising and training pigtailed macaques, a species of monkey common to the area, to pick coconuts for around 400 years. Coconut farmers in Sri Lanka, Malaysia, India and other countries in the region sometimes rely on monkeys, too. The monkeys attend a training school where they learn to pick coconuts.",
+      "title": "Coconut Pickers"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "\"Go confidently in the direction of your dreams. Live the life you have imagined.\" Henry David Thoreau was a 19th century American essayist, poet, and philosopher. Among his lasting contributions are his writings on natural history and philosophy, in which he anticipated the methods and findings of ecology and environmental history.",
+      "title": "Thoreau"
+    },
+    {
+      "goal_wpm": 59,
+      "lesson": "Recycling is turning the materials from trash into something new. Glass, paper, plastic, and metals such as aluminum and steel are all commonly recycled. Dead plants and some kitchen trash can be recycled through composting. Recycling is different than reusing, which is where old things, such as clothes, are donated or given a new use instead of being thrown out.",
+      "title": "Recycling"
+    },
+    {
+      "goal_wpm": 59,
+      "lesson": "There are two species in the Delphinus genus, the Short-beaked Common Dolphin (Delphinus delphis), and the Long-beaked Common Dolphin (Delphinus capensis). Some studies say there is a third species, the \"Arabian Common Dolphin\" (Delphinus tropicalis), which has a long, thin beak and is found in the Indian Ocean and the Red Sea.",
+      "title": "Dolphins"
+    },
+    {
+      "goal_wpm": 59,
+      "lesson": "The first Disneyland opened on July 17, 1955. It is one of the most popular theme parks in the world. Disneyland celebrated its golden anniversary on July 17, 2005. In 2001, the area around the park expanded into a resort with 3 hotels, a shopping and dining area called Downtown Disney and a second theme park, Disney's California Adventure.",
+      "title": "Disneyland"
+    },
+    {
+      "goal_wpm": 59,
+      "lesson": "Recycling reduces the amount of raw materials and energy used to make things. Most of the time, it takes less energy to recycle trash than to throw it away, The Economist says. Recycling helps minimize the amount of garbage that ends up in trash dumps around the world.",
+      "title": "Reasons to Recycle"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "A light year is the distance that light travels through empty space in one year. Since the speed of light is about 300,000 km per second (about 186,000 miles per second), then one light year is about 10 trillion kilometers (about 6 trillion miles). A light year is not a length of time. Light years are used in astronomy because the universe is huge.",
+      "title": "Light Year"
+    },
+    {
+      "goal_wpm": 60,
+      "lesson": "Few countries with \"free speech\" let everything be said. For example, the U.S. Supreme Court said that it is against the law to shout \"fire\" in a crowded theater if there is no fire because it might cause people to panic. The International Covenant on Civil and Political Rights also says that it is not okay to cause national, racial, or religious hatred.",
+      "title": "Freedom of Speech"
+    },
+    {
+      "goal_wpm": 60,
+      "lesson": "In the center of southern Florida is a very big lake called Lake Okeechobee. It is the seventh largest freshwater lake in the United States and the second largest freshwater lake entirely within the lower 48 states. Okeechobee is 730 square miles, about half the size of the state of Rhode Island, and is very shallow for a lake of its size.",
+      "title": "Lake Okeechobee"
+    },
+    {
+      "goal_wpm": 60,
+      "lesson": "Romeo and Juliet is one of the most famous plays written by William Shakespeare. It tells a story of two young people who love each other eternally, but have to overcome numerous obstacles to be together. They both come from noble families, however, the Capulets and the Montagues are mortal enemies. The story is set in the beautiful Italian city of Verona.",
+      "title": "Romeo and Juliet"
+    },
+    {
+      "goal_wpm": 60,
+      "lesson": "There are dogs that are trained to smell for diseases in the human body or to find bombs or illegal drugs. These dogs sometimes help police in airports or other areas. Sniffer dogs (usually beagles) are sometimes trained for this job. Dogs have even been sent by Russians into outer space. The first dog sent to space was named Laika.",
+      "title": "Police Dogs"
+    },
+    {
+      "goal_wpm": 40,
+      "lesson": "\"When one door closes, another door opens. But we so often look so long and so regretfully upon the closed door, that we do not see the ones which open for us.\" A quote by Alexander Graham Bell, the brilliant scientist, inventor, and engineer credited with patenting the first telephone in 1876. He refused to have a telephone in his study.",
+      "title": "Alexander G. Bell"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "several Officially human Reduce sports recycle Lake center Kingdom Monkey common Train library include door Supreme parks important Bookstore",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 50,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 60,
+      "lesson": "\"When one door closes, another door opens. But we so often look so long and so regretfully upon the closed door, that we do not see the ones which open for us.\" A quote by Alexander Graham Bell",
+      "title": "Placement Test More Symbols"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Oliver Twist is Charles Dickens's second novel. It tells a story of an orphan boy who was captured by thieves and forced to work with them. The book is often referred to as a social novel, as it draws the reader's attention to child labor and the presence of orphan children on the streets.",
+      "title": "Oliver Twist"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Red pandas are native to the Himalayas and southwestern China. The English word for red panda is \"Firefox\" which is where the popular web browser gets its name from. Many people think that the Firefox logo is a fox, but the truth is that the logo is actually a red panda. The browser was created in 2002 and its full name is Mozilla Firefox.",
+      "title": "Red Pandas"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Marquette and Joliet are given credit for being the first Europeans to find the state of Illinois. Illinois became a state on December 3, 1818. Its state insect is the Monarch Butterfly, its state tree is the white oak, its state flower is the violet, its state bird is the cardinal, and its state animal is the white-tailed deer.",
+      "title": "Illinois"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Music is sound that has been organized using rhythm, melody, or harmony. If someone bangs saucepans while cooking, it makes noise. If a person bangs saucepans in a rhythmic way, they are making a simple type of music. Blues is played by singing, using the harmonica, or the acoustic guitar. Jazz musicians use instruments such as the trumpet and saxophone.",
+      "title": "Music Structure"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Climate is the average weather usually taken over a 30 year time period for a particular region and time period. Climate is not the same as weather, but rather, it is the average pattern of weather for a particular region. Weather describes the short-term state of the atmosphere, including temperature, precipitation, air pressure, and cloud cover.",
+      "title": "Climate"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Leo Tolstoy is a Russian author who wrote one of the most famous Russian novels in the history of literature called War and Peace. The book describes life in Russia in the 19th century during the wars with Napoleon. There are almost 600 characters mentioned in the story, but the main characters are members of 4 noble families.",
+      "title": "War and Peace"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Cave paintings are painted drawings on cave walls or ceilings, mainly of prehistoric origin. Evidence suggests that they were not merely decorations of living areas since the caves in which they have been found do not have signs of ongoing habitation. They are also often located in areas of caves that are not easily accessible.",
+      "title": "Prehistoric Art"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Almost as soon as automobiles were invented races of various sorts were organized, with the first recorded as early as 1867. Many of the earliest events were reliability trials, aimed at proving these new machines were a practical mode of transport. Soon, they became an important way for competing makers to demonstrate their machines.",
+      "title": "Car Races"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Martial arts are codified systems and traditions of combat practices, which are practiced for a variety of reasons including self-defense, military and law enforcement applications, and mental and spiritual development. In addition, they are practiced for entertainment and the preservation of a nation's intangible cultural heritage.",
+      "title": "Martial Arts"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Online communities are now a normal part of our everyday lives. The internet has not only changed the way we form communities, but the tools we use to communicate, too. People around the world use social media sites to keep in touch with family and meet new people, or connect with friends using online games on their phones or computers.",
+      "title": "Communities"
+    },
+    {
+      "goal_wpm": 61,
+      "lesson": "Music is found in every known culture, past and present, varying widely between times and places. Since all people of the world, including the most isolated tribal groups, have a form of music, it may be concluded that music is likely to have been present in the ancestral population prior to the dispersal of humans around the world.",
+      "title": "Music Everywhere"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "Giant pandas are about the size of an American black bear. They are about 3 feet (91 cm) tall at the shoulder when they are standing on all four legs. Pandas are typically about 6 feet (180 cm) long. In the wild, males can weigh up to 250 pounds (110 kg). Females usually weigh less than 220 pounds (100 kg).",
+      "title": "Pandas, Part 3"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "Some theories hold that cave paintings may have been a way of communicating with others, while other theories ascribe a religious or ceremonial purpose to them. The paintings are remarkably similar around the world, with animals being common subjects. Humans mainly appear as images of hands.",
+      "title": "Cave Paintings"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "The prehistoric age is considered to have ended with the development of writing, and with it, by definition, prehistoric music. \"Ancient music\" is the name given to the music that followed. The oldest known song was written in cuneiform, dating to 3400 years ago from Ugarit. It was deciphered by Anne Draffkorn Kilmer.",
+      "title": "Ancient Music"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "The area now called England was first inhabited by modern humans during the Upper Palaeolithic period, but it takes its name from the Angles, one of the Germanic tribes who settled the area during the 5th and 6th centuries. The term Anglo-Saxon stems from the Angles and the Saxons, another tribe that inhabited the area during that time.",
+      "title": "Anglo-Saxons"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "Panda twist present Found giant painting writing Modern england internet Origin prehistoric novel Invent melody harmony Sound music story",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "Newton's second law of motion is: the resultant force is equal to mass times acceleration. This law says that acceleration is dependent on the forces acting upon an object and the mass of the object. Therefore if the force increases, acceleration increases, and the more mass the object has, the acceleration decreases.",
+      "title": "Newton's Law"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "Health care is the preservation of mental and physical health by preventing or treating illnesses through services offered by the health profession and its staff. Health care includes all reasonable and necessary medical aid, medical evaluations, and medical services. The right to health care is considered a human right.",
+      "title": "Health Care"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "The Industrial Revolution was a period from the 18th to the 19th century where major changes in agriculture, manufacturing, mining, transportation, and technology had a profound effect on the socioeconomic and cultural conditions of the times. It began in the United Kingdom, then spread throughout Europe, North America, and eventually the world.",
+      "title": "Industry Awakes"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "When an electric charge builds up on the surface of an object it creates static electricity. You have probably experienced static electricity in the form of a small electric shock, which is what happens when an electric charge is quickly neutralized by an opposite charge. Opposite charges attract each other. Positive charges repel each other, as do negative charges.",
+      "title": "Static Electricity"
+    },
+    {
+      "goal_wpm": 62,
+      "lesson": "Words per minute (WPM) is a measure of input or output speed. For the purposes of WPM measurement, a word is standardized to five characters or keystrokes. The average person types around 40 words per minute. However, professional typists type a lot faster. On average, professional typists can type upwards of 65 to 80 WPM.",
+      "title": "Words per Minute"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "The Divine Comedy is an epic poem written by Dante Alighieri. It is divided in three parts, with Inferno being the most famous one. The word \"comedy\" in the title does not mean that the poem is funny, rather that it has a positive ending. Dante has to travel through 9 concentric circles of suffering to be saved.",
+      "title": "Divine Comedy"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "An elephant's trunk is able to sense the size, shape, and temperature of an object. An elephant uses its trunk like a human uses its hands. It can grab food and put it in its mouth to feed itself. It can also suck up water and pour it into its mouth or spray itself on a hot day. Elephants can use their trunks like a snorkel to breathe in deep water.",
+      "title": "Elephant's Trunk"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "A healthy diet provides the body with essential nutrition: fluid, adequate essential amino acids from protein, essential fatty acids, vitamins, minerals, and adequate calories. The requirements for a healthy diet can be met from a variety of plant-based and animal-based foods.",
+      "title": "Healthy Diet"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "Nefertiti was the primary wife of the Pharaoh Akhenaten, who unsuccessfully tried to change the religion of Egypt. Akhenaten was then succeeded by a pharaoh referred to as Smenkhare. Some scientists believe Smenkhare and Nefertiti are the same person. Many think the queen changed her name during her rule. She reigned during the wealthiest period of Ancient Egypt.",
+      "title": "Nefertiti"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "Teachers direct the education of students and might draw on many subjects, including reading, writing, mathematics, science, and history. In many countries, teachers must obtain certifications or a university degree in order to qualify for a position. Teachers around the world work hard to help students learn.",
+      "title": "Teachers"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "The basic unit of an element is called an atom. An atom is the smallest building block that you can cut an element into without the element breaking down into a lighter element. Two ways that atoms can be broken down are through nuclear fission or radioactive decay. A chemical compound is a substance made up of 2 or more elements.",
+      "title": "Atoms"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "The Olympic Games were a series of athletic competitions among representatives of city-states and one of the Panhellenic Games of Ancient Greece. They were held in honor of Zeus, and the Greeks gave them a mythological origin. The first Olympic Games were held in 776 BC, and they continued to be celebrated when Greece came to be under Roman rule.",
+      "title": "Olympics History"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "During the celebration of the games, an Olympic Truce was enacted so that athletes could travel from their cities to the games in safety. The prizes for the victors were olive leaf wreaths or crowns. The games became a political tool used by city-states to assert dominance over their rivals. The Olympics also featured religious celebrations.",
+      "title": "Olympics Ceremony"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "Genetically modified foods, or GMOs, are foods produced from organisms that have had changes introduced to their DNA using methods of genetic engineering. Genetic engineering techniques allow for the introduction of new traits as well as greater control over traits than previous methods such as selective breeding and mutation breeding.",
+      "title": "GM Foods"
+    },
+    {
+      "goal_wpm": 63,
+      "lesson": "\"I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.\" Michael Jordan is a retired professional basketball player. He played 15 seasons with the Bulls and Wizards.",
+      "title": "Michael Jordan"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "Jordan olympic Message comedy Source remember Track information essential Banker person healthy Electronic material Game celebration",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "There are eight planets in the solar system. From closest to farthest from the Sun, they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. A fun way to remember the order of the planets is to use a mnemonic device: My Very Excellent Mother Just Served Us Noodles. Each letter represents the name of one planet.",
+      "title": "Our Solar System"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "A volcano is an opening, typically a mountain, in the Earth's surface that opens downward to a pool of hot liquid rock, or magma. When pressure builds up underneath the volcano, eruptions can occur. When a volcano erupts, gas, ash, and magma can shoot through the opening. When magma leaves a volcano, it is known as lava.",
+      "title": "Volcano"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "Frogs can live on land and in fresh water. They cannot survive in salt water. Their development is by metamorphosis. They hatch from eggs as tadpoles, which are laid by a female frog. The eggs are called frogspawn. Tadpoles have tails and gills. When they grow up, they lose their tails and gills and grow four long legs.",
+      "title": "Frogs"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "Australia is a country in the Southern Hemisphere between the Pacific Ocean and the Indian Ocean. Its official name is the Commonwealth of Australia. Australia is the sixth biggest country in the world by landmass. The Australian emblem is a flower called the Golden Wattle. Australia is also the smallest continent in the world.",
+      "title": "Australia"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "When Japanese meet, they traditionally bow instead of shake hands. The lower the bow, the deeper respect it shows. Sumo is recognized as the national sport of Japan, although it isn't the most popular one. Sumo is a wrestling sport where a wrestler tries to force another wrestler out of a circular ring. Sumo is practiced professionally in Japan.",
+      "title": "Japan"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "The benefits of exercise for all ages have been known since antiquity. Marcus Cicero, around 65 BC, stated, \"It is exercise alone that supports the spirits, and keeps the mind in vigor.\" Regular exercise has been shown to help high blood pressure, obesity, heart disease, diabetes, and depression, among other conditions.",
+      "title": "Exercise"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "There are many other systems like our solar system in the universe. Each star has the potential to have a planetary system. There are more than 200 billion stars in the Milky Way galaxy. The Sun is the star found at the center of our solar system. At around 1,392,000 kilometers (865,000 miles) wide, the Sun's diameter is about 110 times wider than Earth's.",
+      "title": "Milky Way"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "\"Rock bottom became the solid foundation on which I rebuilt my life.\" J.K. Rowling is a British novelist and screenwriter. She is best known as the author of the very popular fantasy book series Harry Potter. The Harry Potter book series consists of 7 books, which were turned into 8 movies.",
+      "title": "J.K. Rowling"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "Over the years, the web has grown bigger and bigger. Today, there are tens of trillions of pages on the Internet. That's so many pages that if you were to print them out and stack them all, you would have a pile that would reach from Earth to the Moon at least a dozen times. All of these pages are connected to each other through links.",
+      "title": "Internet Size"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "The general concept of human posture refers to the \"carriage of the body as a whole, the attitude of the body, or the position of the limbs.\" Good posture helps improve our concentration, letting us work longer and harder. It also prevents sore muscles, leading us to feel happier and healthier both at and away from the computer.",
+      "title": "Human Posture"
+    },
+    {
+      "goal_wpm": 64,
+      "lesson": "Italy is a country in Europe and one of the founding countries of the European Union. It is a peninsula located in the heart of the Mediterranean Sea. Thanks to its shape, it is often referred to as the Boot. Italy is said to have more masterpieces per square mile than any other country. Italy's capital, Rome, is home to the famous Colosseum.",
+      "title": "Italy "
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "Some studies suggest that people tend to read as much as 10% slower from a screen than from paper. Reading text from a computer screen can negatively impact your vision in the long term. The blue light emitted from devices such as computers or mobile phones has been proven to diminish the quality of sleep and cause headaches.",
+      "title": "Reading Speed"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "New Mexico is a state in the United States of America. It is part of the American Southwest and is bordered by Texas to the east, Oklahoma to the northeast, Colorado to the north, and Arizona to the west. The northwest corner of the state also touches Utah. This area is known as the Four Corners because four states meet there.",
+      "title": "New Mexico"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "A modern notification system is a combination of software and hardware that provides a means of delivering a message to a set of recipients. For example, notification systems can send an email when a new topic has been added to Wikipedia.",
+      "title": "Notifications"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "There are 50 states in the United States of America, with Hawaii being the last one to join in 1959. There are independent US territories believed to be part of the 50 states, such as Puerto Rico and Guam, which is a very common misconception. They are self governing territories with locally elected governors and territorial legislatures.",
+      "title": "US Territories"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "document Survive apple system Posture general Notification combination Software hardware Today benefit Pacific ocean Water salt Frog website",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "Plants and animals (including people) are mostly water inside. The human body is made up of 60% to 70% water. All plants and animals need water to live. Water gives a medium for chemical reactions to take place, and is the main part of blood. Water helps blood carry nutrients from the stomach to all parts of the body to keep the body alive.",
+      "title": "Power of Water"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "Here is a quick recipe for staying healthy: take a break every 15 minutes to give your eyes and body a rest! Get out of your chair; maybe even take a short walk. If you have a window in the room, take a look outside. Stretch your back, neck, and arms, and reach for the sky. Take a break, get active, and stay healthy!",
+      "title": "Stay Healthy"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "Polish astronomer Nicolaus Copernicus was the first scientist to suggest that the Earth was not the center of the universe. He proposed a model that placed the Sun in the center in his publication in 1543. It is said that Copernicus did not want to publish his theses for fear of the reaction he would receive.",
+      "title": "Copernicus"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "Dogs can smell and hear very well, but cannot see colors very well. Dogs are sometimes referred to as \"man's best friend\" because they are kept as domestic pets, are usually loyal, and like being around humans. Dogs can be taught many skills and often have jobs helping people, such as service dogs, guard dogs, and police dogs.",
+      "title": "Man's Best Friend"
+    },
+    {
+      "goal_wpm": 65,
+      "lesson": "Little Women is a book by Louisa May Alcott published in 1868. The story is about the fictional March sisters, who lived in the time of the American Civil War. Their father served as a chaplain in the Union Army. The author was inspired by her own childhood experiences when writing the book. The book was made into a drama film in 1994.",
+      "title": "Little Women"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "Most social media sites share some of the basics. You create a profile which tells other users who you are. You get to pick an avatar, your online likeness in the form of a picture or drawing. You'll probably meet trolls, or people who are there to annoy others. You'll have tools to flag or report inconsiderate and improper content.",
+      "title": "Social Media I"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "A dental hygienist is a dental professional registered with a dental association in their country. Dental hygienists often work alongside dentists to provide full oral health care. Very few dental hygienists work independently. Their training focuses on the prevention and treatment of oral disease, such as cavities, gum disease etc.",
+      "title": "Dental Hygienist"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "Mr. Disney's friends thought the idea of making an amusement park was a crazy one. After selling land that he loved very much in Palm Springs to help pay for the park, the building of Disneyland began in 1954. He also used a weekly television show called Disneyland to make people want to see his park. In only one year, Disneyland Park was open.",
+      "title": "Disneyland Park"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "Some birds that eat mainly seeds feed their young on insects. A few types of birds eat green plants, but only one species lives on leaves. Hummingbirds and Honeyeaters live on the nectar or honey in flowers. Birds come in many sizes from the Bee Hummingbird that is only 60 mm long to the ostrich which stands 2.5 meters high.",
+      "title": "Hummingbirds"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "A flame is the visible, gaseous part of a fire. A flame is a mixture of reacting gases and solids emitting visible, infrared, and sometimes ultraviolet light. The frequency spectrum of the emitted light depends on the chemical composition of the burning material, or fuel, and the intermediate reaction products.",
+      "title": "Flame"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "Healing arts programs began at a handful of hospitals in the 1960s but have skyrocketed in the past decade or so. Research has shown that art can be therapeutic for people during stressful times. A 2015 Review: of past studies in The Lancet found that listening to music before, during or after surgery helped recovery.",
+      "title": "Healing Arts"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "The earliest maps were probably simple sketches in dirt. Eventually, ancient people began to carve maps on stone and clay tablets. The oldest surviving clay map, dated to around 2,300 B.C., comes from ancient Mesopotamia. Other ancient maps have been found around the world. These were typically focused on the area around the map-makers and did not attempt to map the whole Earth.",
+      "title": "Maps"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "There are many different types of social media. The most common are personal networks like Facebook, where you connect with other people. There are media sharing sites like Instagram where you post pictures. There are also forums, where people meet to chat about specific topics, and social publishing, like KidBlog where you post longer articles.",
+      "title": "Social Media II"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "Nursing is an extremely popular profession in the United States, with around 3 million registered nurses nationwide. Nurses provide care and support for individuals and their families. They work alongside physicians and follow their directions precisely to ensure a quick recovery of each patient. Their ultimate goal is to improve our quality of life.",
+      "title": "Nursing"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "While relatively small quantities of water are observed by humans to be colorless, pure water has a slight blue color. The blue tint of water is an intrinsic property and is caused by selective absorption and scattering of white light. Impurities dissolved or suspended in water may give water different colored appearances.",
+      "title": "Pure Water"
+    },
+    {
+      "goal_wpm": 35,
+      "lesson": "Quick recipe Mountain dental Seed surfing recent Common personal Popular research Million create Dental professional Program hospital",
+      "title": "Play: Words"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 66,
+      "lesson": "Italy is a country in Europe and one of the founding countries of the European Union. It is a peninsula located in the heart of the Mediterranean Sea. Thanks to its shape, it is often referred to as the Boot.",
+      "title": "Placement Test 66WPM"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Mental abilities, as well as other abilities such as motor control, memory, and general reasoning are served equally by the two hemispheres. Until very recently medical experts believed that humans were born with all of the brain cells they would ever have. However, we now know that new neurons can be created in the postnatal brain.",
+      "title": "Postnatal Brain"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Computers are curious things. They hold your favorite stories, but they aren't books. They take you to faraway places, but they aren't airplanes. They whisk you through history, but they aren't time machines. With the push of a button, computers help you play, learn, share, and communicate. These days, computers affect your life in countless ways.",
+      "title": "What Computers Do"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Butcher is one of the professions which are not very popular with the new generation. A butcher is the person who prepares and sells meat. They prepare cuts of meat and poultry for sale in retail. Nowadays, it is very hard to find a place to get a fresh cut of meat which does not come from a giant chain grocery store.",
+      "title": "Butcher"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Brazil is the largest Portuguese-speaking country in the world. It is home to the Amazon Rainforest which produces more than twenty percent of the Earth's oxygen. In fact, the large amount of green in Brazil's flag represents the forests of Brazil. The reason Brazilians speak Portuguese is that Portugal claimed the land of Brazil in the year 1500.",
+      "title": "Brazil"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "\"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.\" Maya Angelou was an American poet, memoirist, and civil rights activist. Angelou's best known work is \"I Know Why the Caged Bird Sings,\" a memoir spanning her early childhood through the age of 17.",
+      "title": "Maya Angelou"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Jane Eyre is a popular love story written by Charlotte Bronte. The book tells a story of a young orphan Jane who falls in love with Mr. Rochester. Jane soon learns that he is already married to a crazy woman and decides to leave him. A few years later, after almost agreeing to marry another man, she returns to marry Mr. Rochester after his wife's death.",
+      "title": "Jane Eyre"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Florida is the Sunshine State. The reason for this nickname is its warm temperature. During the summer, temperatures may rise up to as high as 109 degrees Fahrenheit (or 40.5 degrees Celsius). Its average temperature is much warmer than many of the other states, but during winter, temperatures occasionally fall below 32 degrees Fahrenheit.",
+      "title": "Florida"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "The National Aeronautics and Space Administration or NASA is an executive branch agency of the United States government, responsible for the nation's civilian space program and aeronautics and aerospace research. The Apollo program started by President J.F. Kennedy in the 1960s was designed to send a man to the Moon and return him safely back to Earth.",
+      "title": "NASA"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Lions live for 10 to 14 years when they are in the wild. When they are captive, they can live longer than 20 years. In the wild, males do not usually live longer than 10 years. This is due to wounds from fighting with other males. They usually live in savannahs or grasslands, though they sometimes live in bushes and forests.",
+      "title": "Lions"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "\"Your time is limited, so don't waste it living someone else's life.\" - Steve Jobs. Jobs was an American businessman, inventor, and industrial designer. He was the co-founder, chairman, and chief executive officer (CEO) of Apple Inc. Jobs is widely recognized as a pioneer of the microcomputer revolution of the 1970s and 1980s.",
+      "title": "Steve Jobs"
+    },
+    {
+      "goal_wpm": 67,
+      "lesson": "Nutrition provides the cells of an organism with food in a form they can use. Organisms need food to keep their bodies working properly. They also need food to be able to do certain things. Malnutrition can happen when a person doesn't eat the right amount of nutrients. They can get better by changing their diet so it has the right amount of nutrients.",
+      "title": "Nutrition"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "The word Wisconsin comes from the name that one of the Algonquian speaking American Indian groups living in the area gave to the Wisconsin River. They named the Wisconsin River at the time that the European contact happened. Jacques Marquette, a French explorer, was the first European (or person from Europe) to get to the Wisconsin River and write down the name.",
+      "title": "Wisconsin"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "The Perseids are a meteor shower associated with the comet Swift-Tuttle. Their name is due to the fact that they appear to hail from the constellation Perseus. The cloud consists of particles ejected by the comet as it travels on its 133-year orbit. Most of the particles have been part of the cloud for around a thousand years. During its peak, the rate of meteors reaches 60 or more per hour.",
+      "title": "Perseid Meteors"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "In Japan, noodles are slurped (somewhat) loudly when eaten. It has been said that slurping while eating indicates that the food is delicious. The slurping also serves to cool down hot noodles before eating and enjoying them. While it may be perceived as disrespectful in western cultures, slurping while eating noodles is a part of Japanese culture.",
+      "title": "Noodle Eating"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "\"Every child is an artist. The problem is how to remain an artist once he grows up.\" Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who lived from 1881 to 1973. Picasso is regarded as one of the greatest and most influential artists of the 20th century.",
+      "title": "Picasso"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "Don Quixote is a novel by Miguel de Cervantes. It was first written in Spanish in the 17th century. It's about Alonso, a middle-aged man gone crazy after reading too many tales about chivalry. He is accompanied by a sane squire, Sancho, on his many adventures around the country. The book depicts many amusing moments when Alonso believes his adventures are real.",
+      "title": "Don Quixote"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "Several adaptations help a camel save water. Their large feet spread their weight on the sand when they are walking. When there is food and water, a camel can eat and drink large amounts and store it as fat in the hump. Then, when there is no food or water, the camel uses the fat for energy, and the hump becomes small and soft.",
+      "title": "Camels"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "A robot is a machine or a computer program which seems to have a life of its own. It can be programmed to do different things, it can move, it can do useful jobs, etc. People have been interested in building machines to do work for them for a long time. It takes an enormous amount of time and money to build them.",
+      "title": "Robots"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "Mount Rushmore National Memorial is a sculpture carved into the side of Mount Rushmore in the Black Hills of South Dakota, USA. Dynamite was used to carve Mount Rushmore followed by a process called 'honeycombing'. About 450,000 tons (over 800 million pounds) of stone was removed from the side of the mountain during construction.",
+      "title": "Mount Rushmore"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "\"To live is the rarest thing in the world. Most people exist, that is all.\" Oscar Wilde was an Irish playwright, novelist, essayist, and poet in the 19th century. He is well known for many of his works, including the novel \"The Picture of Dorian Gray\" and the play \"The Importance of Being Earnest\".",
+      "title": "Oscar Wilde"
+    },
+    {
+      "goal_wpm": 68,
+      "lesson": "A teacher is a person who helps others learn. There are many different kinds of teachers. Some teach kindergarten, while others teach elementary and high school students. Generally speaking, teachers who teach at universities are called professors. To earn the title of professor, one must pass many difficult examinations and become an expert in the subject matter.",
+      "title": "Teacher"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "The Catcher in the Rye is a classic novel written by J.D. Salinger. It tells a story of a young man who, after being expelled from school, decides to embark on a short trip before returning home. It becomes a trip of self-discovery. The main character, a young man named Holden, narrates the story from a mental hospital, but the location is unknown.",
+      "title": "Catcher in the Rye"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "George Washington was active in the French and Indian War. His first military action was a defeat at the hands of the French and their Indian allies at Fort Necessity. By the age of 23, he was a colonel in charge of all the soldiers in Virginia. They fought the Indians. In 1759, Washington married a widow named Martha Custis.",
+      "title": "George Washington"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "The Sun is the star at the center of the solar system. It is almost perfectly spherical and consists of hot plasma interwoven with magnetic fields. About three quarters of the Sun's mass consists of hydrogen, while the rest is mostly helium. The Sun's atmosphere has 3 layers: the photosphere, the chromosphere, and the corona.",
+      "title": "Sun's Composition"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "In Costa Rica, \"Pura vida\" is the national saying which translates as \"pure life,\" a sunny, feel good expression used as a greeting, goodbye, or if someone asks how you are doing. Costa Rica is a country in Central America. Roughly a quarter of its area is made up of protected jungle, teeming with wildlife including sloths and quetzal birds.",
+      "title": "Costa Rica"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "The average person's left hand does 56% of the typing when using the proper position of the hands on the keyboard (hunting and pecking doesn't count!). Now that we have practiced the proper form for typing with all 10 fingers, this includes you! Think about which letters each hand is responsible for. Does this percentage make sense?",
+      "title": "Left Hand Typing"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "Many cases of color vision deficiency are relatively mild, a matter of mixing up certain colors or seeing very dull versions of the colors. It can affect the way people see traffic lights when driving. For creative people in artistic professions, colorblindness can hinder their ability to work. It also prevents people from entering a number of professions.",
+      "title": "Color Vision"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "The Founding Fathers of the United States of America, the framers of the Constitution, wanted to form a government that did not allow one person to have too much control. With this in mind, the Founding Fathers wrote the Constitution to provide for a separation of powers, or three separate branches of government: legislative, executive, and judiciary.",
+      "title": "Founding Fathers"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "In the United States, Cinco de Mayo has evolved into a celebration of Mexican culture and heritage, particularly in areas with large Mexican-American populations. Cinco de Mayo traditions include parades, mariachi music performances, and street festivals in cities and towns across Mexico and the United States.",
+      "title": "Cinco de Mayo"
+    },
+    {
+      "goal_wpm": 69,
+      "lesson": "Unlike street addresses, web addresses begin with \"www\" followed by things like \"Google\" or \"Yahoo\" and end in \".com\", \".org\", or other similar endings. We call these types of addresses \"urls\", \"Websites\", \"sites\", or even simply \"Web Addresses.\" Countries sometimes have their own url endings, such as \".uk\" for the United Kingdom, and \".au\" for Australia.",
+      "title": "Web Addresses"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "A company is a type of business. The definition of the term varies by country. In general, a company is the same as a corporation. It is a business organization which makes goods in an organized manner and sells them to the public for profit. A company may hire people to be the staff of the company.",
+      "title": "What Is a Company?"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "Remember these tips for staying safe on the Internet: 1) Everyone you meet online is a STRANGER, 2) Never share private information on the Internet, 3) Only go to websites your parents or teachers have approved, 4) Do not download or install anything on your computer, 5) Think before you click!, 6) If someone is being mean to you, tell a trusted adult right away.",
+      "title": "Internet Tips"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "An accountant is a person who communicates financial information about a business. Accountants write in the books of account that belong to a company. Every time money is spent or earned, it is written in the ledger. The information in the ledger is reported every month, every three months or once a year. The annual accounts show if the company made a profit in the year.",
+      "title": "Accountant"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "Mexico and the United States share the second largest border in the world, only the U.S.-Canadian border is larger. The Mexican flag consists of three vertical stripes, and each of them has a unique meaning. The green stripe stands for hope, the white stripe represents purity, and the red stripe represents the people who sacrificed their lives for Mexico's independence.",
+      "title": "Mexico's Flag"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "A tornado is a violent rotating column of air extending from a thunderstorm to the ground. The most violent tornadoes are capable of tremendous destruction with wind speeds of up to three hundred mph. The vast majority of tornadoes occur in the Tornado Alley region of the United States. The term Tornado Alley was first used in 1952.",
+      "title": "Tornado"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "Profit is how much money somebody (normally a company) makes. This is found by subtracting how much money they have spent (expenditure) from how much money they have brought in (revenue). For example, if Alex spends $40 on some ice cream cones, and then sells them for $50, he has made a profit of $10. This is because 50 minus 40 is 10.",
+      "title": "Calculating Profit"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "The judicial branch of the U.S. government is made up of the court system. The Supreme Court is the highest court in the country. The 9 justices are nominated by the president and must be approved by the Senate (with at least 51 votes). There are lower Federal courts that were created by Congress using power granted from the Constitution.",
+      "title": "Judicial Branch"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "\"Would you tell me, please, which way I ought to go from here?\" \"That depends a good deal on where you want to get to,\" said the Cat. \"I don't much care where - \" said Alice. \"Then it doesn't matter which way you walk,\" said the Cat. \"- so long as I get somewhere,\" Alice added as an explanation. -Lewis Carroll, Alice's Adventures in Wonderland",
+      "title": "Wonderland"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "Firefighters are people whose job is to rescue people and put out fires. Firefighters are often taught first aid and given medical training. Firefighters work at a fire station. Fire stations have multiple trucks which serve different purposes (water tank, rescue truck, ladder truck). If you see a fire truck on the road and the siren is on, give it the right-of-way.",
+      "title": "Firefighters"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "George Washington, the first President of the United States, is often called the father of the United States. Washington was a farmer like his father. His large plantation was called Mount Vernon. The estate is situated in Fairfax County, Virginia. George Washington also worked as a surveyor, someone who measures land. Washington always wanted to be a soldier.",
+      "title": "First President"
+    },
+    {
+      "goal_wpm": 70,
+      "lesson": "Everyone knows stealing property is wrong. It's wrong in real life and on the Internet. Property isn't just things you can hold. Words, music, artwork, and even ideas are property and can be stolen. Stealing and claiming them as your own is illegal and will get you into trouble. This is a form of cheating called plagiarism.",
+      "title": "Plagiarism"
+    },
+    {
+      "goal_wpm": 71,
+      "lesson": "If you learn to control computers, or better yet, if you learn how to speak to them directly like programmers do, they will follow your every order and will make you more powerful than a superhero. In fact, some of the most successful and powerful people on the planet have become so by learning how to use computers really well.",
+      "title": "Programming"
+    },
+    {
+      "goal_wpm": 71,
+      "lesson": "The National Mall in Washington D.C. is a large, open park that has many monuments and museums. D.C.'s many museums and monuments make it a popular place for tourists to visit. Washington D.C. is called many things by different people. It can be called D.C., The District of Columbia, The District, or sometimes just Washington.",
+      "title": "The National Mall"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "Farming is one of the oldest professions since the beginning of civilization. Farmers are people who own land, raise animals, and grow crops. This profession is not very popular amongst young people, and many of them move away from farming to find a job in the city.",
+      "title": "Farmers"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "A secretary is responsible for keeping the office organized. In the past, the role of a secretary was typically held by men. Throughout the years, the roles have switched and today we have far more women than men filling the role. Some of their responsibilities include answering the phone, keeping files organized, and managing correspondence.",
+      "title": "Secretary"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "The three branches of the U.S. government work together and ensure that no one person has too much power. This is done through checks and balances. A branch may use its powers to check the powers of the other two in order to maintain a balance of power among the three branches of government.",
+      "title": "Balance of Power"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "Cucumbers have the power to relieve sunburned skin. Simply place a couple slices of cucumbers on the affected area. Cucumbers are also believed to cure bad breath. One slice of cucumber pressed against the roof of your mouth can supposedly kill the problematic bacteria.",
+      "title": "Cucumbers"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "Strawberries are very tasty, and very good for you. They're low in calories, and contain a high percentage of several vitamins, including C, B6 and K. Fibre, folic acid and potassium (three things your body needs) can also be found in strawberries. They are a delicious treat on a hot summer day.",
+      "title": "Strawberries"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "A tongue twister is a sequence of words or sounds, typically of an alliterative kind, that are difficult to pronounce quickly and correctly, as, for example, tie twine to three tree twigs. The \"sixth sick sheik's sixth sheep's sick\" is believed to be the toughest tongue twister in the English language.",
+      "title": "Tongue Twisters"
+    },
+    {
+      "goal_wpm": 72,
+      "lesson": "Asia is surrounded by the Mediterranean Sea, the Black Sea, the Arctic Ocean, the Pacific Ocean, and the Indian Ocean. It is separated from Europe by the Pontic Mountains and the Turkish Straits. A long, mainly land border in the west separates Europe and Asia. This line runs North-South down the Ural Mountains in Russia, and through the Caucasus Mountains.",
+      "title": "Asia"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "The U.S. government has three branches: legislative, executive, and judicial. Each of these branches has its own responsibilities and at the same time they work together to make the country run smoothly and to assure that the rights of citizens are not ignored or disallowed.",
+      "title": "US Legal Branches"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "Education is about teaching, learning skills, and acquiring knowledge. Education also means helping people to learn how to do things and encouraging them to think about what they learn. It is important for educators to teach ways to find and use information. Through education, the knowledge of societies, countries, and of the world is passed on from generation to generation.",
+      "title": "Education"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "Pumice is a term for a lightweight volcanic rock. It is solidified frothy lava, created when highly-heated, pressurized molten rock is shot out from a volcano. Its light weight is due to air spaces, which are caused by fast cooling and loss of pressure. The loss of pressure makes bubbles by lowering the boiling point of the lava. The cooling then freezes the bubbles in the matrix.",
+      "title": "Lava"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "Wind power is the conversion of the energy in wind into a more useful form of energy, like electricity. It is a renewable source of energy that helps to cut down on the pollution of Earth's air. At the end of 2009, wind power supplied about 1.3% of the world's electricity. Wind power is widely used in European countries, and more recently in the United States and Asia.",
+      "title": "Wind Power"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "Freedom of speech is the right to state one's opinions and ideas without being stopped or punished. Sometimes this is also called freedom of expression. Freedom of speech is thought to also include freedom of information. The Freedom of Information Act (FOIA) in the USA is often described as the law that keeps citizens informed about their government.",
+      "title": "Freedom of Speech"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "Snow is a form of ice. Snow forms when water in the atmosphere becomes frozen. Snow comes in all different shapes and sizes. At the freezing point of water, snow melts and becomes water. Sometimes, the snow will melt very fast and become water vapor. This is called sublimation. The opposite, where water vapor becomes snow, is called deposition.",
+      "title": "Snow"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "Sports in Japan are a part of Japanese culture. Japan has many traditional sports such as sumo, judo, karate, and kendo. Also, there are sports which were imported from the West such as baseball, soccer, golf, and skiing. Sports are popular with both participants and onlookers. In Japan, sports groups are an important part of school life.",
+      "title": "Sports in Japan"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "The Sun was born billions of years ago and started the process of nuclear fusion, releasing photons as it combined hydrogen atoms to form helium. Stars such as the Sun release huge amounts of energy over the billions of years they exist and their lifetime often ends in a spectacular explosion, the intense energy helping form new elements.",
+      "title": "Birth of Sun"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "The lion is a large mammal of the cat family, and is often called the \"king of the beasts\". Lions are mostly found in Africa and in a small reserve in India. They can live in cool areas, very hot areas, or in thick forests. Today, many live in zoos around the world. In the past they lived in Northern India, Pakistan, Europe, and Arabia.",
+      "title": "Lion"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "The roots of a tree carry food and water from the ground through the trunk and branches to the leaves of the tree. The roots that grow above the ground are called aerial roots. The trunk is the main body of the tree. The trunk is covered with bark which protects it from damage. Branches grow from the trunk. They spread out so that the leaves can get more sunlight.",
+      "title": "Roots"
+    },
+    {
+      "goal_wpm": 55,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 73,
+      "lesson": "The Sun was born billions of years ago and started the process of nuclear fusion, releasing photons as it combined hydrogen atoms to form helium.",
+      "title": "Placement Test 73WPM"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "\"Stewardesses\" is the longest word that is typed with only the left hand. A stewardess is a woman who is employed to provide meals for and otherwise look after passengers on a ship or aircraft. These days, we typically use the term flight attendant, which can refer to a man or woman that performs this job. What other words are typed with only one hand?",
+      "title": "Stewardess"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Indiana is a state in the United States. Its capital and largest city is Indianapolis. Other famous cities and towns include Bloomington, Gary, Ft. Wayne, South Bend, Evansville, Muncie, and Marion. People who live in Indiana or are from there are called Hoosiers. Indiana's state bird is a Cardinal, Indiana's state flower is a Peony, Indiana's state tree is a Tulip Tree.",
+      "title": "Indiana"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Nowadays, phones are clever enough to grasp your physical surroundings. They can detect the size of a room and the presence of other people. Kids studying the Mesozoic Era would be able to place a virtual Tyrannosaurus in their home or classroom. The technology would even know when to display information about a scene depicted in a painting as you stroll through a museum.",
+      "title": "Smart Phones"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Which do you think there are more of: stars in the universe, or grains of sand on the beach? There are more stars in the universe than grains of sand on the beach. Try to picture that! However, there are more atoms in a single grain of sand than either stars in the universe or grains of sand on the beach. Pretty neat, right?",
+      "title": "Stars vs. Sand"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "\"A friend is someone who knows all about you and still loves you.\" Elbert Hubbard was an American writer, publisher, artist, and philosopher in the late 19th century and early 20th century. He is well known for founding an Arts & Crafts community in East Aurora, New York called Roycroft.",
+      "title": "Elbert Hubbard"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "\"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.\" - Ralph Waldo Emerson. Emerson was an American essayist, lecturer, and poet in the mid-19th century. He is well known as a champion of individualism, and for leading the transcendentalism movement.",
+      "title": "Emerson"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "If you use someone else's idea on your project, make sure to give them credit by mentioning their name. If you took the idea from a website, or a book, put the website's address or the book's name. This is called citing a source. Citing a source is how you can include someone else's text in your project without getting into trouble.",
+      "title": "Citing a Source"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Jefferson was selected by George Washington as the first Secretary of State. Jefferson thought that the federal government should be small. He had the opposite view of Secretary of the Treasury Alexander Hamilton about the federal government. Jefferson ran for president against John Adams. He got the second highest number of votes and as was the law at the time, became vice-president.",
+      "title": "Secretary of State"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Pride and Prejudice is a piece of classical literature by Jane Austen. The story is so popular that it has been made into a movie not once, but twice. The book depicts a high born gentleman Mr. Darcy who falls in love with a young woman Elizabeth. Elizabeth comes from a family far beneath him socially. The couple must overcome many obstacles to finally realize their desire to marry.",
+      "title": "Pride & Prejudice"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Virtual reality games are different from ordinary games. Players don't look at a phone or TV screen when playing. Instead, they put the virtual reality device on their heads and over their eyes. These devices are called headsets. They close you off from the real world and make you feel like you are inside the game.",
+      "title": "Virtual Reality"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Humans have more than five senses. Although definitions vary, the actual number ranges from 9 to more than 20. In addition to sight, smell, taste, touch, and hearing, which were the senses identified by Aristotle, humans can sense balance and acceleration, pain, body and limb position, and relative temperature.",
+      "title": "Human Senses"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "The marine environment supplies many kinds of habitats that support life. Marine life depends on the saltwater in the sea. Marine habitats can be divided into coastal and open ocean habitats. Most marine life is found in coastal habitats, even though the shelf area occupies only 7% of the total ocean area.",
+      "title": "Marine Life"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Hairdressers help people cut, color, and style their hair. Qualified staff are usually called \"stylists\". Most hairdressing businesses serve both male and female customers. Male hairdressers who cut men's hair using a buzzer and a pair of scissors are often called barbers. The prestige of the job has been steadily growing over the past years.",
+      "title": "Hairdresser"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "The Electoral College consists of 538 electors. A majority of 270 electoral votes is required to elect the President. Your state's entitled allotment of electors equals the number of members in its Congressional delegation: one for each member in the House of Representatives plus two for your Senators. The president of the USA gets elected every four years.",
+      "title": "Electoral College"
+    },
+    {
+      "goal_wpm": 74,
+      "lesson": "Can you imagine standing on top of your food to taste it? Well, that's how many butterflies taste their food! Butterflies have taste receptors in their feet, unlike humans, who taste with their tongues. Butterflies will taste a leaf before laying their eggs to see if it will be good food for the caterpillars when they hatch.",
+      "title": "Butterflies"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "When doing research, always look at more than one source. Each website, book, magazine, or newspaper represents a different source. If they all say the same thing, you will know it's probably true! A good number of sources to aim for is 3. Try to find 3 sources that agree on the same information any time you research something.",
+      "title": "Research Source"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "The continent of Africa is possibly the most language diverse place in the world. There are estimated to be between 1,500 and 2,000 languages spoken in Africa. In Nigeria alone, a country in Africa, there are over 500 languages spoken! Some of these languages are quite widespread, while others are spoken by a very small population.",
+      "title": "African Languages"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "The longest continental mountain range in the world, the Andes, is located in Chile. The Andes are about 7,000 km (4,300 mi) long. Approximately 80% of the country of Chile is made up of mountains. The mountains extend through the entire length of the country, which results in only 3% of its land being fit for agricultural use.",
+      "title": "The Andes"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "There are many types of exercises that can help keep you healthy and strong. Flexibility exercises help the human body in general, and in particular, help it to be able to reach farther and bend better. Aerobic exercises, like running, help the body work hard for a long time. Anaerobic exercises, like lifting weights, make muscles stronger.",
+      "title": "Types of Exercises"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "The first four planets in our solar system, starting from the Sun, are Mercury, Venus, Earth, and Mars. They are known as the inner planets, or as the terrestrial planets because they are made mostly of rock and metal, and they are largely solid. Of the inner planets, Earth is the largest, and the only one that has extensive regions of liquid water.",
+      "title": "Inner Planets"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "Information is how we learn about things. Information can be pictures, videos, or words about something or someone. Did you know that when it comes to people, not all information is the same? There are two types: personal and private. Personal information might describe your likes and dislikes, while private information identifies you as a person.",
+      "title": "Information"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "Chuseok is a three day celebration and is one of the most important holidays in Korea. Chuseok is a harvest holiday, similar to Thanksgiving in the United States of America or Canada, and is held near the autumnal equinox. Family members from near and far come together to share food and stories, and to give thanks to their ancestors.",
+      "title": "Chuseok"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "China is the third largest country in the world (after Russia and Canada). It has an area of 3,624,807 square miles (slightly larger than the U.S.) and its borders with other countries total more than 22,117 km (13,743 mi). As of 2022, China's population is 1.451 billion, or 1,451,689,993.",
+      "title": "China"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "The Falkland Islands are an archipelago off the coast of Argentina in the South Atlantic Ocean. They have about 167 sheep for every person that lives there! The total population of the islands is about 3,000 people, and there are over 500,000 sheep. As you might guess, wool is a major export from these islands. You can also find penguins there.",
+      "title": "Falkland Islands"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "A cloud is a large collection of very tiny droplets of water or ice crystals. The droplets are so small and light that they can float in the air. A cloud can weigh more than a million pounds. Clouds are white because they reflect light from the sun. Gray clouds become so filled with water that they don't reflect light.",
+      "title": "Clouds"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "The Koreas are located in northeast Asia. In 1945, they split into two countries: North Korea and South Korea. The tension between the two eventually led to the Korean War in 1950. Korea is a peninsula. There is a lot of fish in Korean cuisine. Korea was an agricultural society until recently, which explains the amount of rice in Korean diet.",
+      "title": "The Koreas"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "A web developer is a programmer who specializes in the development of the World Wide Web. Developers often work in teams, but it is not uncommon to find a developer who works independently as a consultant. Web developers have to learn many programming languages to ensure a website is visually appealing, as well as fully functioning.",
+      "title": "Web Developer"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "The Old Man and the Sea is the most famous work written by Ernest Hemingway. The story is centered around an old Cuban fisherman Santiago, who spends 84 days fishing without catching anything. On the 85th day, his bait is finally taken by a big fish he believes to be a marlin. The story describes the fisherman's battle with the marlin and his journey back to the shore.",
+      "title": "Ernest Hemingway"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "In areas with seasonal climate, wood produced at different times of the year may alternate light and dark rings. In temperate climates, and tropical climates with a single wet-dry season alternation, the growth rings are annual, each pair of light and dark rings being one year of growth. In areas with two wet and dry seasons each year, there may be two pairs of light and dark rings each year.",
+      "title": "Tree Rings"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "Around 70% of the Earth's surface is covered by oceans. The deepest known area of the Earth's oceans is known as the Mariana Trench. Its deepest point measures 6.8 miles or almost 11 kilometers deep! This spot is called the Challenger Deep. It is located in the western Pacific Ocean, to the east of the Mariana Islands.",
+      "title": "Mariana Trench"
+    },
+    {
+      "goal_wpm": 60,
+      "lesson": "",
+      "title": "Dynamic Practice"
+    },
+    {
+      "goal_wpm": 75,
+      "lesson": "Congratulations on reaching the final lesson of Typing Jungle! Now that you have worked through this lesson plan, you should see great improvement in your typing skills. Your dedication and hard work will pay off in many aspects of your life. If you would like to continue improving, go back and redo any lessons where you haven't earned 5 stars. You can also try one of our many other lesson plans. Thank you for practicing with TypingClub!",
+      "title": "Congratulations!"
+    }
+  ]
