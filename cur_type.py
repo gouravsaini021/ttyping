@@ -1,13 +1,19 @@
 import curses
 import time
 import logging
-import threading
 import json
-from playsound import playsound
+from os import environ
+
 
 f = open('config.json')
 data = json.load(f)
 Audio=data["audio"]
+if Audio:
+	environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'  #This variable is set to remove pygame hello message
+	from pygame import mixer
+	mixer.init()
+	typewriter_sound=mixer.Sound("audio/typewriter.mp3")
+	error_sound=mixer.Sound("audio/error.mp3")
 
 
 def show_result_screen(stdscr,total_time,total_typed_char,correct_typed_char,goal_wpm,selected_option):
@@ -90,7 +96,10 @@ def get_xxxxx(stdscr:curses.window,lesson_no:int):
 	stdscr.clear()
 	# ch1="think how do you think in this situation that really matters in life to create happy healthy and prosprous life."
 	# ch1="The world is becoming increasingly digitized, and as a result, digital literacy has become a crucial skill to have. Whether it's understanding how to use new software or navigating social media, being digitally literate can help you in both your personal and professional life. So, take the time to learn and stay up-to-date with the latest digital trends to stay ahead of the curve."
-	ch1=lessons[lesson_no]['lesson']
+	try:
+		ch1=lessons[lesson_no]['lesson']
+	except IndexError:
+		return 
 	goal_wpm=lessons[lesson_no]['goal_wpm']
 	color_seq=[]
 	h,w=stdscr.getmaxyx()
@@ -142,9 +151,9 @@ def get_xxxxx(stdscr:curses.window,lesson_no:int):
 			stdscr.addstr(cur_h,cur_w,chr(key),curses.color_pair(2))
 			if Audio:
 				try:
-					sound_thread = threading.Thread(target=lambda:playsound("audio/typewriter.mp3"))
-					sound_thread.start()
-				# playsound("audio/typewriter.mp3")
+					# sound_thread = threading.Thread(target=lambda:playsound("audio/typewriter.mp3"))
+					# sound_thread.start()
+					typewriter_sound.play()
 				except:
 					pass
 			stdscr.refresh()
@@ -166,8 +175,9 @@ def get_xxxxx(stdscr:curses.window,lesson_no:int):
 			stdscr.addstr(cur_h,cur_w,ch1[i],curses.color_pair(3))
 			if Audio:
 				try:
-					sound_thread = threading.Thread(target=lambda:playsound("audio/error.mp3"))
-					sound_thread.start()
+					# sound_thread = threading.Thread(target=lambda:playsound("audio/error.mp3"))
+					# sound_thread.start()
+					error_sound.play()
 				except:
 					pass
 			stdscr.refresh()
