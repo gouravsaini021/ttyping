@@ -3,6 +3,29 @@
 - It offers a range of typing sessions suitable for users at various skill levels, spanning from beginner to advanced.
 - Each lesson within the tool comes with a specific goal measured in words per minute (WPM).
 
+# Some Snapshots:
+ **Home screen**
+ 
+![image](https://github.com/gouravsaini021/curses-typing/assets/63018500/81557e42-03aa-442e-81a1-1900158d04f4)
+
+**Lesson screen**
+
+![image](https://github.com/gouravsaini021/curses-typing/assets/63018500/f1141396-79cc-4873-995f-0c4f4c862385)
+
+**Practice Screen**
+
+![image](https://github.com/gouravsaini021/curses-typing/assets/63018500/7f47a07a-c994-4f93-914f-a53d2bf9bba3)
+
+**Result Screen**
+
+![image](https://github.com/gouravsaini021/curses-typing/assets/63018500/504e7891-b5c7-4ef7-9b17-2ec221dc4d5c)
+
+
+
+
+
+
+
 
 # How to Run This Project
 
