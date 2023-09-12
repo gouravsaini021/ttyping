@@ -2,6 +2,7 @@ import curses
 import time
 import os
 import sys
+import platform
 import json
 from os import environ
 from app_configurations import get_address
@@ -163,7 +164,7 @@ def typing_screen(stdscr: curses.window, lesson_no: int):
 			stdscr.refresh()
 
 		# This condition is for when user press for backspace
-		elif key == curses.KEY_BACKSPACE or key == "\x7f" or key == 263:
+		elif key == curses.KEY_BACKSPACE or key == "\x7f" or key == 263 or (platform.system()=='Windows' or key==8):
 			if cur_w == 0:
 				curses.beep()
 				continue
