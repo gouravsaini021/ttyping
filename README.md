@@ -47,7 +47,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
    Clone this project repository to your local machine using Git. Open your terminal or command prompt and navigate to the directory where you want to store the project:
 
    ```shell
-   git clone https://github.com/gouravsaini021/curses-typing)https://github.com/gouravsaini021/ttyping ```
+   git clone https://github.com/gouravsaini021/ttyping
 2. **Create and Activate a Virtual Environment:**
      ```shell
      cd ttyping
